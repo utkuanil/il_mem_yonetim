@@ -1,0 +1,53 @@
+[
+  {
+    "id": "I-01",
+    "ad": "Türkiye’de Suriyeli ve İhtiyaç Sahibi Türk Çocuklara Yönelik Erken Çocukluk Eğitiminin Desteklenmesi Projesi",
+    "en": "Promoting Early Childhood Education for Syrian and Turkish Children",
+    "sorumlu_birim": "Temel Eğitim Genel Müdürlüğü /Araştırma Geliştirme ve Projeler Daire Başkanlığı",
+    "paydaslar": ["Alman Uluslararası İş Birliği Kurumu (GİZ)", "Hayat Boyu Öğrenme Genel Müdürlüğü"],
+    "amac": "Yabancı uyruklu çocukların yoğun olduğu şartları elverişsiz yerleşim yerlerindeki Türk ve yabancı uyruklu ailelerin çocuklarının okul öncesi eğitime erişimini arttırmak, bu yerleşim yerlerindeki okul öncesi eğitim kurumlarında eğitimin kalitesini arttırmaktır.",
+    "pilot_iller": ["-"],
+    "genel_hedef": "Yabancı uyruklu öğrenciler ile dezavantajlı çocukların erken çocukluk eğitimi hizmetlerine erişimlerinin arttırılmasıdır.",
+    "baslangic": "2020 Mayıs",
+    "bitis": "2026 Şubat",
+    "butce": {
+      "hizmet": "7.300.000 Euro",
+      "ekipman": "-",
+      "hibe": "—"
+    }
+  },
+  {
+    "id": "I-02",
+    "ad": "Türkiye’de Dijital Vatandaşlık Eğitimi Projesi",
+    "en": "Digital Citizenship Education in Türkiye Project",
+    "sorumlu_birim": "Temel Eğitim Genel Müdürlüğü /Araştırma Geliştirme ve Projeler Daire Başkanlığı",
+    "paydaslar": ["Avrupa Konseyi", "Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü"],
+    "amac": "Çocuğun, dijital ortamlarda var olma halinin güçlendirilmesini, dijital vatandaşlık yoluyla kapsayıcılık ve toleransın güçlendirilmesini sağlamaktır. Çocuklara tamamlayıcı tedbirler ile dijital vatandaşlık kavramını ve temel yetkinliklerini (çevrim içi ortamda olma, çevrim içi iyi olma hali ve çevrim içi haklar) tanıtmaktır.",
+    "pilot_iller": ["-"],
+    "genel_hedef": "Proje ile okullarda demokrasi kültürünün oluşması, insan hakları ve demokrasi kültürünün teşviki hedeflenmektedir.",
+    "baslangic": "2023",
+    "bitis": "2025",
+    "butce": {
+      "hizmet": "900.000 Avro",
+      "ekipman": "—",
+      "hibe": "—"
+    }
+  },
+  {
+    "id": "I-03",
+    "ad": "Temel Eğitimde Öğrenme Kayıplarının Giderilmesi ve Öğretimin Güçlendirilmesi Projesi",
+    "en": "Recovering Learning Loss and Strengthening Teaching in Basic Education Project",
+    "sorumlu_birim": "Temel Eğitim Genel Müdürlüğü / Araştırma Geliştirme ve Projeler Daire Başkanlığı",
+    "paydaslar": ["UNICEF"],
+    "amac": "Temel eğitim kademesinde öğrenme kayıplarının giderilmesi, öğrenme kayıplarının önlenmesi ve öğretimin güçlendirilmesidir.",
+    "pilot_iller": ["Adana", "Adıyaman", "Ankara", "Antalya", "Bursa", "Diyarbakır", "Erzurum", "Eskişehir", "Gaziantep", "Hatay", "İstanbul", "İzmir", "Kahramanmaraş", "Kocaeli", "Konya", "Malatya", "Ordu", "Rize", "Sakarya", "Samsun", "Siirt", "Sivas", "Şanlıurfa", "Tekirdağ", "Trabzon", "Van"],
+    "genel_hedef": "Temel eğitim kademesindeki; ilkokul ve ortaokul öğrencilerinde öğrenme kayıplarının nedeninin, kapsamının ve düzeyinin tespit edilmesi, tespit edilen öğrenme kayıplarına yönelik stratejilerin belirlenmesi, öğrenme kayıplarını önleyici müdahalelerin ve faaliyetlerin belirlenmesi, kanıta dayalı uygulama ve müdahaleler yoluyla öğrenme kayıplarının giderilmesi ve öğrenme kayıplarının oluşmasına engel olacak adil ve etkili uygulamalarla öğretimin güçlendirilmesi hedeflenmektedir.",
+    "baslangic": "2023",
+    "bitis": "2026",
+    "butce": {
+      "hizmet": "57.353,835 TL UNICEF",
+      "ekipman": "-",
+      "hibe": "—"
+    }
+  }
+]

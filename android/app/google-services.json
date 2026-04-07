@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "22213161575",
+    "project_id": "ilmem-yonetim",
+    "storage_bucket": "ilmem-yonetim.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22213161575:android:11c3e8532b6a57cafd1ac2",
+        "android_client_info": {
+          "package_name": "tr.gov.meb.tunceli.il_mem_yonetim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASMr1Nj_2vzUcJPanMOGFYfeuZRVltguU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

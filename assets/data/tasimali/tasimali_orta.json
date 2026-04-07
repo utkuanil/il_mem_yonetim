@@ -1,0 +1,113 @@
+{
+  "title": "Taşımalı Eğitim - Orta",
+  "records": [
+    {
+      "MERKEZ_OKULLAR": "Atatürk Mesleki ve Teknik Anadolu Lisesi",
+      "TASIMA_GUZERGAHI": "TUNCELİ - MERKEZ - MERKEZ - MERKEZ - AKTULUK\nTUNCELİ - MERKEZ - MERKEZ - MERKEZ - ATATÜRK",
+      "MALIYET_NUMARASI": 2744666,
+      "IHALE_KAYIT_NUMARASI": "2025/1105551",
+      "OGRENCI_SAYISI": 7,
+      "MESAFE_KM": 15,
+      "YUKLENICI": "PİYA TUR ",
+      "ARAC_SOFORU": "SELÇUK IŞIK",
+      "ARAC_PLAKASI": "62AP468",
+      "GUNLUK_TASIMA_UCRETI": 1720.0
+    },
+    {
+      "MERKEZ_OKULLAR": "Atatürk Mesleki ve Teknik Anadolu Lisesi",
+      "TASIMA_GUZERGAHI": "TUNCELİ - MERKEZ - MERKEZ - MERKEZ - AKTULUK\nTUNCELİ - MERKEZ - MERKEZ - MERKEZ - ATATÜRK",
+      "MALIYET_NUMARASI": 2744679,
+      "IHALE_KAYIT_NUMARASI": "2025/1105551",
+      "OGRENCI_SAYISI": 10,
+      "MESAFE_KM": 15,
+      "YUKLENICI": "PİYA TUR ",
+      "ARAC_SOFORU": "CEMAL ARSLAN",
+      "ARAC_PLAKASI": "62AAH271",
+      "GUNLUK_TASIMA_UCRETI": 1720.0
+    },
+    {
+      "MERKEZ_OKULLAR": "Atatürk Mesleki ve Teknik Anadolu Lisesi",
+      "TASIMA_GUZERGAHI": "TUNCELİ - MERKEZ - MERKEZ - MERKEZ - AKTULUK\nTUNCELİ - MERKEZ - MERKEZ - MERKEZ - ATATÜRK",
+      "MALIYET_NUMARASI": 2776427,
+      "IHALE_KAYIT_NUMARASI": "2025/1105551",
+      "OGRENCI_SAYISI": 8,
+      "MESAFE_KM": 15,
+      "YUKLENICI": "PİYA TUR ",
+      "ARAC_SOFORU": "HASAN COŞKUN",
+      "ARAC_PLAKASI": "62AD293",
+      "GUNLUK_TASIMA_UCRETI": 1720.0
+    },
+    {
+      "MERKEZ_OKULLAR": "Atatürk Mesleki ve Teknik Anadolu Lisesi",
+      "TASIMA_GUZERGAHI": "TUNCELİ - MERKEZ - MERKEZ - MERKEZ - AKTULUK\nTUNCELİ - MERKEZ - MERKEZ - MERKEZ - ATATÜRK",
+      "MALIYET_NUMARASI": 2744656,
+      "IHALE_KAYIT_NUMARASI": "2025/1105551",
+      "OGRENCI_SAYISI": 15,
+      "MESAFE_KM": 15,
+      "YUKLENICI": "PİYA TUR ",
+      "ARAC_SOFORU": "SADIK AŞKIN",
+      "ARAC_PLAKASI": "62S0050",
+      "GUNLUK_TASIMA_UCRETI": 1720.0
+    },
+    {
+      "MERKEZ_OKULLAR": "Atatürk Mesleki ve Teknik Anadolu Lisesi",
+      "TASIMA_GUZERGAHI": "TUNCELİ - MERKEZ - MERKEZ - MERKEZ - AKTULUK\nTUNCELİ - MERKEZ - MERKEZ - MERKEZ - ATATÜRK",
+      "MALIYET_NUMARASI": 2744662,
+      "IHALE_KAYIT_NUMARASI": "2025/1105551",
+      "OGRENCI_SAYISI": 15,
+      "MESAFE_KM": 15,
+      "YUKLENICI": "PİYA TUR ",
+      "ARAC_SOFORU": "HAYDAR ARSLAN",
+      "ARAC_PLAKASI": "62AAK143",
+      "GUNLUK_TASIMA_UCRETI": 1720.0
+    },
+    {
+      "MERKEZ_OKULLAR": "Atatürk Mesleki ve Teknik Anadolu Lisesi",
+      "TASIMA_GUZERGAHI": "TUNCELİ - MERKEZ - MERKEZ - MERKEZ - ATATÜRK",
+      "MALIYET_NUMARASI": 2848280,
+      "IHALE_KAYIT_NUMARASI": "2025/1105551",
+      "OGRENCI_SAYISI": 15,
+      "MESAFE_KM": 15,
+      "YUKLENICI": "PİYA TUR ",
+      "ARAC_SOFORU": "ERCAN YELTEKİN",
+      "ARAC_PLAKASI": "62S0037",
+      "GUNLUK_TASIMA_UCRETI": 1785.0
+    },
+    {
+      "MERKEZ_OKULLAR": "Atatürk Mesleki ve Teknik Anadolu Lisesi",
+      "TASIMA_GUZERGAHI": "TUNCELİ - MERKEZ - MERKEZ - MERKEZ - ATATÜRK",
+      "MALIYET_NUMARASI": 2848280,
+      "IHALE_KAYIT_NUMARASI": "2025/1105551",
+      "OGRENCI_SAYISI": 15,
+      "MESAFE_KM": 15,
+      "YUKLENICI": "PİYA TUR ",
+      "ARAC_SOFORU": "HAKAN GÖK",
+      "ARAC_PLAKASI": "62M0064",
+      "GUNLUK_TASIMA_UCRETI": 1785.0
+    },
+    {
+      "MERKEZ_OKULLAR": "Atatürk Mesleki ve Teknik Anadolu Lisesi",
+      "TASIMA_GUZERGAHI": "TUNCELİ - MERKEZ - MERKEZ - MERKEZ - İSMET İNÖNÜ",
+      "MALIYET_NUMARASI": 2744690,
+      "IHALE_KAYIT_NUMARASI": "2025/1105551",
+      "OGRENCI_SAYISI": 7,
+      "MESAFE_KM": 13,
+      "YUKLENICI": "PİYA TUR ",
+      "ARAC_SOFORU": "MEHMET KAYA",
+      "ARAC_PLAKASI": "62S0029",
+      "GUNLUK_TASIMA_UCRETI": 1722.5
+    },
+    {
+      "MERKEZ_OKULLAR": "Atatürk Mesleki ve Teknik Anadolu Lisesi",
+      "TASIMA_GUZERGAHI": "TUNCELİ - MERKEZ - MERKEZ - MERKEZ - İSMET İNÖNÜ",
+      "MALIYET_NUMARASI": 2744697,
+      "IHALE_KAYIT_NUMARASI": "2025/1105551",
+      "OGRENCI_SAYISI": 9,
+      "MESAFE_KM": 13,
+      "YUKLENICI": "PİYA TUR ",
+      "ARAC_SOFORU": "EVRİM KÜÇÜK",
+      "ARAC_PLAKASI": "62AAN489",
+      "GUNLUK_TASIMA_UCRETI": 1722.5
+    }
+  ]
+}

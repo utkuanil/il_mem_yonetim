@@ -1,0 +1,6524 @@
+[
+  {
+    "il": "TUNCELİ",
+    "ilce": "MERKEZ",
+    "okul_adi": "İl Milli Eğitim Müdürlüğü",
+    "kurum_kodu": "205066",
+    "ogretmen_durumu": {
+      "norm": 0,
+      "kadrolu": 131,
+      "sozlesmeli": 0
+    },
+    "branslar": [
+      {
+        "brans": "Beden Eğitimi",
+        "norm": 0,
+        "kadrolu": 6,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Biyoloji",
+        "norm": 0,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Coğrafya",
+        "norm": 0,
+        "kadrolu": 11,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Elektrik-Elektronik Teknolojisi / Elektrik",
+        "norm": 0,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Felsefe",
+        "norm": 0,
+        "kadrolu": 6,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Fen Bilimleri",
+        "norm": 0,
+        "kadrolu": 4,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Giyim Üretim Teknolojisi / Moda Tasarım Teknolojileri",
+        "norm": 0,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Matematik",
+        "norm": 0,
+        "kadrolu": 6,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Motorlu Araçlar Teknolojisi",
+        "norm": 0,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Muhasebe ve Finansman",
+        "norm": 0,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Müzik",
+        "norm": 0,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Rehberlik",
+        "norm": 0,
+        "kadrolu": 5,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sosyal Bilgiler",
+        "norm": 0,
+        "kadrolu": 4,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sınıf Öğretmenliği",
+        "norm": 0,
+        "kadrolu": 47,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Tarih",
+        "norm": 0,
+        "kadrolu": 4,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Türk Dili ve Edebiyatı",
+        "norm": 0,
+        "kadrolu": 20,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Türkçe",
+        "norm": 0,
+        "kadrolu": 2,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Yaşayan Diller ve Lehçeler (Kürtçe / Zazaki)",
+        "norm": 0,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Çocuk Gelişimi ve Eğitimi",
+        "norm": 0,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İlköğretim Matematik",
+        "norm": 0,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 0,
+        "kadrolu": 6,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İnşaat Teknolojisi / Yapı Tasarım",
+        "norm": 0,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.07313,
+      "longitude": 39.53025
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "HOZAT",
+    "okul_adi": "Ercan Doğan Ortaokulu",
+    "kurum_kodu": "724451",
+    "ogretmen_durumu": {
+      "norm": 15,
+      "kadrolu": 8,
+      "sozlesmeli": 1
+    },
+    "branslar": [
+      {
+        "brans": "Beden Eğitimi",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Bilgisayar ve Öğretim Teknolojileri",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Fen Bilimleri",
+        "norm": 2,
+        "kadrolu": 1,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Görsel Sanatlar",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Müzik",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sosyal Bilgiler",
+        "norm": 2,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Teknoloji ve Tasarım",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Türkçe",
+        "norm": 2,
+        "kadrolu": 2,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Özel Eğitim",
+        "norm": 2,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İlköğretim Matematik",
+        "norm": 2,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.10670,
+      "longitude": 39.22000
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "HOZAT",
+    "okul_adi": "Hozat Anaokulu",
+    "kurum_kodu": "892718",
+    "ogretmen_durumu": {
+      "norm": 6,
+      "kadrolu": 3,
+      "sozlesmeli": 1
+    },
+    "branslar": [
+      {
+        "brans": "Okul Öncesi",
+        "norm": 6,
+        "kadrolu": 3,
+        "sozlesmeli": 1
+      }
+    ],
+    "konum": {
+      "latitude": 39.10806,
+      "longitude": 39.21866
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "HOZAT",
+    "okul_adi": "Hozat Halk Eğitimi Merkezi",
+    "kurum_kodu": "205174",
+    "ogretmen_durumu": {
+      "norm": 3,
+      "kadrolu": 2,
+      "sozlesmeli": 0
+    },
+    "branslar": [
+      {
+        "brans": "Bilgisayar ve Öğretim Teknolojileri",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Müzik",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sınıf Öğretmenliği",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Teknoloji ve Tasarım",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Türk Dili ve Edebiyatı",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.10806,
+      "longitude": 39.21866
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "HOZAT",
+    "okul_adi": "Mohaç İlkokulu",
+    "kurum_kodu": "724397",
+    "ogretmen_durumu": {
+      "norm": 14,
+      "kadrolu": 8,
+      "sozlesmeli": 2
+    },
+    "branslar": [
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Rehberlik",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Sınıf Öğretmenliği",
+        "norm": 8,
+        "kadrolu": 7,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Özel Eğitim",
+        "norm": 4,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.10699,
+      "longitude": 39.22069
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "HOZAT",
+    "okul_adi": "Zübeyde Hanım Anadolu Lisesi",
+    "kurum_kodu": "762853",
+    "ogretmen_durumu": {
+      "norm": 15,
+      "kadrolu": 12,
+      "sozlesmeli": 5
+    },
+    "branslar": [
+      {
+        "brans": "Almanca",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Beden Eğitimi",
+        "norm": 0,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Bilgisayar ve Öğretim Teknolojileri",
+        "norm": 0,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Biyoloji",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Coğrafya",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Felsefe",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Fizik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Görsel Sanatlar",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Kimya / Kimya Teknolojisi",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Matematik",
+        "norm": 2,
+        "kadrolu": 0,
+        "sozlesmeli": 2
+      },
+      {
+        "brans": "Müzik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sağlık Bilgisi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Tarih",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Türk Dili ve Edebiyatı",
+        "norm": 2,
+        "kadrolu": 1,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 1,
+        "kadrolu": 2,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.10820,
+      "longitude": 39.21866
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "HOZAT",
+    "okul_adi": "İlçe Milli Eğitim Müdürlüğü",
+    "kurum_kodu": "205186",
+    "ogretmen_durumu": {
+      "norm": 0,
+      "kadrolu": 3,
+      "sozlesmeli": 0
+    },
+    "branslar": [
+      {
+        "brans": "Biyoloji",
+        "norm": 0,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Felsefe",
+        "norm": 0,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Fen Bilimleri",
+        "norm": 0,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.10821,
+      "longitude": 39.21865
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MAZGİRT",
+    "okul_adi": "15 Temmuz Şehitler Anadolu Lisesi",
+    "kurum_kodu": "757867",
+    "ogretmen_durumu": {
+      "norm": 11,
+      "kadrolu": 5,
+      "sozlesmeli": 6
+    },
+    "branslar": [
+      {
+        "brans": "Beden Eğitimi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Biyoloji",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Coğrafya",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Felsefe",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Fizik",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Görsel Sanatlar",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Kimya / Kimya Teknolojisi",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Matematik",
+        "norm": 2,
+        "kadrolu": 1,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Sağlık Bilgisi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Tarih",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Türk Dili ve Edebiyatı",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 38.85262,
+      "longitude": 39.67994
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MAZGİRT",
+    "okul_adi": "Akpazar İlkokulu",
+    "kurum_kodu": "724811",
+    "ogretmen_durumu": {
+      "norm": 7,
+      "kadrolu": 6,
+      "sozlesmeli": 1
+    },
+    "branslar": [
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Okul Öncesi",
+        "norm": 2,
+        "kadrolu": 1,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Rehberlik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sınıf Öğretmenliği",
+        "norm": 4,
+        "kadrolu": 4,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 38.85310,
+      "longitude": 39.68120
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MAZGİRT",
+    "okul_adi": "Bulgurcular İlkokulu",
+    "kurum_kodu": "729486",
+    "ogretmen_durumu": {
+      "norm": 1,
+      "kadrolu": 1,
+      "sozlesmeli": 0
+    },
+    "branslar": [
+      {
+        "brans": "Sınıf Öğretmenliği",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 38.99246,
+      "longitude": 39.68239
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MAZGİRT",
+    "okul_adi": "Göktepe İlkokulu",
+    "kurum_kodu": "724945",
+    "ogretmen_durumu": {
+      "norm": 4,
+      "kadrolu": 2,
+      "sozlesmeli": 0
+    },
+    "branslar": [
+      {
+        "brans": "Okul Öncesi",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sınıf Öğretmenliği",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Özel Eğitim",
+        "norm": 2,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 38.93087,
+      "longitude": 39.61655
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MAZGİRT",
+    "okul_adi": "Kıymet İlaslan Ortaokulu",
+    "kurum_kodu": "724938",
+    "ogretmen_durumu": {
+      "norm": 9,
+      "kadrolu": 2,
+      "sozlesmeli": 3
+    },
+    "branslar": [
+      {
+        "brans": "Beden Eğitimi",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Bilgisayar ve Öğretim Teknolojileri",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Fen Bilimleri",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Görsel Sanatlar",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Müzik",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sosyal Bilgiler",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Teknoloji ve Tasarım",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Türkçe",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İlköğretim Matematik",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 38.96853,
+      "longitude": 39.80851
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MAZGİRT",
+    "okul_adi": "Kıymet İlaslan İlkokulu",
+    "kurum_kodu": "724866",
+    "ogretmen_durumu": {
+      "norm": 2,
+      "kadrolu": 1,
+      "sozlesmeli": 0
+    },
+    "branslar": [
+      {
+        "brans": "Okul Öncesi",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sınıf Öğretmenliği",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 38.96853,
+      "longitude": 39.80851
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MAZGİRT",
+    "okul_adi": "Mazgirt Anaokulu",
+    "kurum_kodu": "963538",
+    "ogretmen_durumu": {
+      "norm": 3,
+      "kadrolu": 3,
+      "sozlesmeli": 0
+    },
+    "branslar": [
+      {
+        "brans": "Okul Öncesi",
+        "norm": 3,
+        "kadrolu": 3,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.01805,
+      "longitude": 39.60658
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MAZGİRT",
+    "okul_adi": "Mazgirt Halk Eğitimi Merkezi",
+    "kurum_kodu": "205269",
+    "ogretmen_durumu": {
+      "norm": 3,
+      "kadrolu": 1,
+      "sozlesmeli": 0
+    },
+    "branslar": [
+      {
+        "brans": "Beden Eğitimi",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Müzik",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sınıf Öğretmenliği",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.01862,
+      "longitude": 39.60509
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MAZGİRT",
+    "okul_adi": "Mimar Sinan Ortaokulu",
+    "kurum_kodu": "725025",
+    "ogretmen_durumu": {
+      "norm": 14,
+      "kadrolu": 9,
+      "sozlesmeli": 2
+    },
+    "branslar": [
+      {
+        "brans": "Beden Eğitimi",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Bilgisayar ve Öğretim Teknolojileri",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Fen Bilimleri",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Görsel Sanatlar",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Müzik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sosyal Bilgiler",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Teknoloji ve Tasarım",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Türkçe",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Özel Eğitim",
+        "norm": 4,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "İlköğretim Matematik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.01798,
+      "longitude": 39.60685
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MAZGİRT",
+    "okul_adi": "Mimar Sinan İlkokulu",
+    "kurum_kodu": "724984",
+    "ogretmen_durumu": {
+      "norm": 4,
+      "kadrolu": 1,
+      "sozlesmeli": 3
+    },
+    "branslar": [
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sınıf Öğretmenliği",
+        "norm": 4,
+        "kadrolu": 1,
+        "sozlesmeli": 3
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.01798,
+      "longitude": 39.60685
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MAZGİRT",
+    "okul_adi": "İlçe Milli Eğitim Müdürlüğü",
+    "kurum_kodu": "205270",
+    "ogretmen_durumu": {
+      "norm": 0,
+      "kadrolu": 6,
+      "sozlesmeli": 0
+    },
+    "branslar": [
+      {
+        "brans": "Coğrafya",
+        "norm": 0,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Fen Bilimleri",
+        "norm": 0,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Fizik",
+        "norm": 0,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Okul Öncesi",
+        "norm": 0,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sınıf Öğretmenliği",
+        "norm": 0,
+        "kadrolu": 2,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.01955,
+      "longitude": 39.60381
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MAZGİRT",
+    "okul_adi": "Şehit Ali İhsan Çetinkaya Ortaokulu",
+    "kurum_kodu": "729480",
+    "ogretmen_durumu": {
+      "norm": 10,
+      "kadrolu": 5,
+      "sozlesmeli": 1
+    },
+    "branslar": [
+      {
+        "brans": "Beden Eğitimi",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Bilgisayar ve Öğretim Teknolojileri",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Fen Bilimleri",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Görsel Sanatlar",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Müzik",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sosyal Bilgiler",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Teknoloji ve Tasarım",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Türkçe",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İlköğretim Matematik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 38.99191,
+      "longitude": 39.68247
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MAZGİRT",
+    "okul_adi": "Şehit Metin Kaynar Ortaokulu",
+    "kurum_kodu": "724858",
+    "ogretmen_durumu": {
+      "norm": 11,
+      "kadrolu": 10,
+      "sozlesmeli": 0
+    },
+    "branslar": [
+      {
+        "brans": "Almanca",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Beden Eğitimi",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Fen Bilimleri",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Görsel Sanatlar",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Müzik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sosyal Bilgiler",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Teknoloji ve Tasarım",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Türkçe",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Özel Eğitim",
+        "norm": 2,
+        "kadrolu": 2,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İlköğretim Matematik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 38.85296,
+      "longitude": 39.68125
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MAZGİRT",
+    "okul_adi": "Şehit Mustafa Karınca Ortaokulu",
+    "kurum_kodu": "724973",
+    "ogretmen_durumu": {
+      "norm": 9,
+      "kadrolu": 6,
+      "sozlesmeli": 1
+    },
+    "branslar": [
+      {
+        "brans": "Beden Eğitimi",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Bilgisayar ve Öğretim Teknolojileri",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Fen Bilimleri",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Görsel Sanatlar",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Müzik",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sosyal Bilgiler",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Teknoloji ve Tasarım",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Türkçe",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Özel Eğitim",
+        "norm": 2,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İlköğretim Matematik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 38.93115,
+      "longitude": 39.61642
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MERKEZ",
+    "okul_adi": "Anafatma Anaokulu",
+    "kurum_kodu": "766996",
+    "ogretmen_durumu": {
+      "norm": 16,
+      "kadrolu": 12,
+      "sozlesmeli": 3
+    },
+    "branslar": [
+      {
+        "brans": "Okul Öncesi",
+        "norm": 15,
+        "kadrolu": 11,
+        "sozlesmeli": 3
+      },
+      {
+        "brans": "Rehberlik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.07070,
+      "longitude": 39.53008
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MERKEZ",
+    "okul_adi": "Atatürk Anadolu Lisesi",
+    "kurum_kodu": "964363",
+    "ogretmen_durumu": {
+      "norm": 20,
+      "kadrolu": 18,
+      "sozlesmeli": 2
+    },
+    "branslar": [
+      {
+        "brans": "Almanca",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Beden Eğitimi",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Biyoloji",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Coğrafya",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Felsefe",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Fizik",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Kimya / Kimya Teknolojisi",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Matematik",
+        "norm": 3,
+        "kadrolu": 3,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Müzik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Rehberlik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sağlık Bilgisi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Tarih",
+        "norm": 2,
+        "kadrolu": 2,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Türk Dili ve Edebiyatı",
+        "norm": 3,
+        "kadrolu": 3,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 2,
+        "kadrolu": 2,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.10990,
+      "longitude": 39.54959
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MERKEZ",
+    "okul_adi": "Atatürk Anaokulu",
+    "kurum_kodu": "762514",
+    "ogretmen_durumu": {
+      "norm": 7,
+      "kadrolu": 8,
+      "sozlesmeli": 0
+    },
+    "branslar": [
+      {
+        "brans": "Okul Öncesi",
+        "norm": 7,
+        "kadrolu": 7,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Rehberlik",
+        "norm": 0,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.04598,
+      "longitude": 39.51048
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MERKEZ",
+    "okul_adi": "Atatürk Mesleki ve Teknik Anadolu Lisesi",
+    "kurum_kodu": "752528",
+    "ogretmen_durumu": {
+      "norm": 46,
+      "kadrolu": 31,
+      "sozlesmeli": 6
+    },
+    "branslar": [
+      {
+        "brans": "Almanca",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Beden Eğitimi",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Bilişim Teknolojileri",
+        "norm": 3,
+        "kadrolu": 2,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Biyoloji",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Coğrafya",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 3,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "El Sanatları Teknolojisi / Nakış",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Elektrik-Elektronik Teknolojisi / Elektrik",
+        "norm": 3,
+        "kadrolu": 3,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Elektrik-Elektronik Teknolojisi / Elektronik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Felsefe",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Fizik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Güzellik ve Saç Bakım Hizmetleri / Güzellik Hizmetleri",
+        "norm": 4,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Harita-Tapu-Kadastro / Harita Kadastro",
+        "norm": 2,
+        "kadrolu": 2,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Kimya / Kimya Teknolojisi",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Konaklama ve Seyahat Hizmetleri / Konaklama ve Seyahat",
+        "norm": 2,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Matematik",
+        "norm": 2,
+        "kadrolu": 3,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Okul Öncesi",
+        "norm": 2,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Rehberlik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sağlık Bilgisi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Tarih",
+        "norm": 2,
+        "kadrolu": 1,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Tesisat Teknolojisi ve İklimlendirme",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Türk Dili ve Edebiyatı",
+        "norm": 4,
+        "kadrolu": 4,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Yiyecek İçecek Hizmetleri",
+        "norm": 5,
+        "kadrolu": 2,
+        "sozlesmeli": 3
+      },
+      {
+        "brans": "Çocuk Gelişimi ve Eğitimi",
+        "norm": 3,
+        "kadrolu": 2,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 2,
+        "kadrolu": 2,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.09434,
+      "longitude": 39.51758
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MERKEZ",
+    "okul_adi": "Atatürk Ortaokulu",
+    "kurum_kodu": "768102",
+    "ogretmen_durumu": {
+      "norm": 25,
+      "kadrolu": 20,
+      "sozlesmeli": 0
+    },
+    "branslar": [
+      {
+        "brans": "Beden Eğitimi",
+        "norm": 2,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Bilgisayar ve Öğretim Teknolojileri",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 2,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Fen Bilimleri",
+        "norm": 3,
+        "kadrolu": 3,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Görsel Sanatlar",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Müzik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Rehberlik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sosyal Bilgiler",
+        "norm": 2,
+        "kadrolu": 2,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Teknoloji ve Tasarım",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Türkçe",
+        "norm": 4,
+        "kadrolu": 3,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İlköğretim Matematik",
+        "norm": 4,
+        "kadrolu": 4,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 3,
+        "kadrolu": 4,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.08003,
+      "longitude": 39.53405
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MERKEZ",
+    "okul_adi": "Burmageçit İlkokulu",
+    "kurum_kodu": "723894",
+    "ogretmen_durumu": {
+      "norm": 2,
+      "kadrolu": 2,
+      "sozlesmeli": 0
+    },
+    "branslar": [
+      {
+        "brans": "Okul Öncesi",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sınıf Öğretmenliği",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 38.96376,
+      "longitude": 39.53960
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MERKEZ",
+    "okul_adi": "Cumhuriyet Ortaokulu",
+    "kurum_kodu": "723428",
+    "ogretmen_durumu": {
+      "norm": 39,
+      "kadrolu": 36,
+      "sozlesmeli": 1
+    },
+    "branslar": [
+      {
+        "brans": "Almanca",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Beden Eğitimi",
+        "norm": 3,
+        "kadrolu": 3,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Bilgisayar ve Öğretim Teknolojileri",
+        "norm": 0,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 2,
+        "kadrolu": 1,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Fen Bilimleri",
+        "norm": 4,
+        "kadrolu": 4,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Görsel Sanatlar",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Müzik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Rehberlik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sosyal Bilgiler",
+        "norm": 4,
+        "kadrolu": 4,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Teknoloji ve Tasarım",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Türkçe",
+        "norm": 6,
+        "kadrolu": 5,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Yaşayan Diller ve Lehçeler (Kürtçe / Zazaki)",
+        "norm": 0,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Özel Eğitim",
+        "norm": 4,
+        "kadrolu": 2,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İlköğretim Matematik",
+        "norm": 5,
+        "kadrolu": 5,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 7,
+        "kadrolu": 6,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.10885,
+      "longitude": 39.54819
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MERKEZ",
+    "okul_adi": "Dersim Anadolu Lisesi",
+    "kurum_kodu": "757868",
+    "ogretmen_durumu": {
+      "norm": 22,
+      "kadrolu": 22,
+      "sozlesmeli": 2
+    },
+    "branslar": [
+      {
+        "brans": "Almanca",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Beden Eğitimi",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Biyoloji",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Coğrafya",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Felsefe",
+        "norm": 1,
+        "kadrolu": 2,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Fizik",
+        "norm": 1,
+        "kadrolu": 2,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Kimya / Kimya Teknolojisi",
+        "norm": 2,
+        "kadrolu": 1,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Matematik",
+        "norm": 4,
+        "kadrolu": 4,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Müzik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Rehberlik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sağlık Bilgisi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Tarih",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Türk Dili ve Edebiyatı",
+        "norm": 3,
+        "kadrolu": 3,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 3,
+        "kadrolu": 3,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.08591,
+      "longitude": 39.53640
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MERKEZ",
+    "okul_adi": "Diyap Ağa İlkokulu",
+    "kurum_kodu": "738421",
+    "ogretmen_durumu": {
+      "norm": 14,
+      "kadrolu": 13,
+      "sozlesmeli": 0
+    },
+    "branslar": [
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Rehberlik",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sınıf Öğretmenliği",
+        "norm": 11,
+        "kadrolu": 12,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Özel Eğitim",
+        "norm": 2,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.10756,
+      "longitude": 39.53432
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MERKEZ",
+    "okul_adi": "Elif Güntaş İlkokulu",
+    "kurum_kodu": "750557",
+    "ogretmen_durumu": {
+      "norm": 16,
+      "kadrolu": 20,
+      "sozlesmeli": 0
+    },
+    "branslar": [
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Rehberlik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sınıf Öğretmenliği",
+        "norm": 14,
+        "kadrolu": 18,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.06964,
+      "longitude": 39.53276
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MERKEZ",
+    "okul_adi": "Geyiksuyu Köyü İlkokulu",
+    "kurum_kodu": "770661",
+    "ogretmen_durumu": {
+      "norm": 1,
+      "kadrolu": 1,
+      "sozlesmeli": 0
+    },
+    "branslar": [
+      {
+        "brans": "Sınıf Öğretmenliği",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.16407,
+      "longitude": 39.37769
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MERKEZ",
+    "okul_adi": "Hacı Bektaş Veli Bilim ve Sanat Merkezi",
+    "kurum_kodu": "760986",
+    "ogretmen_durumu": {
+      "norm": 24,
+      "kadrolu": 14,
+      "sozlesmeli": 0
+    },
+    "branslar": [
+      {
+        "brans": "Bilişim Teknolojileri",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Biyoloji",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Coğrafya",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Elektrik-Elektronik Teknolojisi / Elektrik",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Elektrik-Elektronik Teknolojisi / Elektronik",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Felsefe",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Fen Bilimleri",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Fizik",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Görsel Sanatlar",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Kimya / Kimya Teknolojisi",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Matematik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Müzik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Raylı Sistemler Teknolojisi / Raylı Sistem Araçları",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Rehberlik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sosyal Bilgiler",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sınıf Öğretmenliği",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Tarih",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Teknoloji ve Tasarım",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Türk Dili ve Edebiyatı",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Türkçe",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Uçak Bakım / Uçak Elektroniği",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Uçak Bakım / Uçak Gövde-Motor",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İlköğretim Matematik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.07978,
+      "longitude": 39.53388
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MERKEZ",
+    "okul_adi": "Halide Edip Anaokulu",
+    "kurum_kodu": "768703",
+    "ogretmen_durumu": {
+      "norm": 7,
+      "kadrolu": 7,
+      "sozlesmeli": 0
+    },
+    "branslar": [
+      {
+        "brans": "Okul Öncesi",
+        "norm": 7,
+        "kadrolu": 7,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.10939,
+      "longitude": 39.54887
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MERKEZ",
+    "okul_adi": "Hoca Ahmet Yesevi İlkokulu",
+    "kurum_kodu": "768103",
+    "ogretmen_durumu": {
+      "norm": 20,
+      "kadrolu": 18,
+      "sozlesmeli": 2
+    },
+    "branslar": [
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Rehberlik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sınıf Öğretmenliği",
+        "norm": 16,
+        "kadrolu": 15,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Özel Eğitim",
+        "norm": 2,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.07349,
+      "longitude": 39.53047
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MERKEZ",
+    "okul_adi": "Hürriyet Ortaokulu",
+    "kurum_kodu": "723676",
+    "ogretmen_durumu": {
+      "norm": 25,
+      "kadrolu": 26,
+      "sozlesmeli": 2
+    },
+    "branslar": [
+      {
+        "brans": "Beden Eğitimi",
+        "norm": 2,
+        "kadrolu": 2,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Bilgisayar ve Öğretim Teknolojileri",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Fen Bilimleri",
+        "norm": 3,
+        "kadrolu": 3,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Görsel Sanatlar",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Müzik",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Rehberlik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sosyal Bilgiler",
+        "norm": 1,
+        "kadrolu": 3,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Teknoloji ve Tasarım",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Türkçe",
+        "norm": 5,
+        "kadrolu": 4,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Yaşayan Diller ve Lehçeler (Kürtçe / Zazaki)",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Özel Eğitim",
+        "norm": 2,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İlköğretim Matematik",
+        "norm": 3,
+        "kadrolu": 4,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 2,
+        "kadrolu": 4,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.10249,
+      "longitude": 39.53763
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MERKEZ",
+    "okul_adi": "Latif Büyükdağ İlkokulu",
+    "kurum_kodu": "723000",
+    "ogretmen_durumu": {
+      "norm": 12,
+      "kadrolu": 10,
+      "sozlesmeli": 1
+    },
+    "branslar": [
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Okul Öncesi",
+        "norm": 2,
+        "kadrolu": 2,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sınıf Öğretmenliği",
+        "norm": 8,
+        "kadrolu": 8,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Özel Eğitim",
+        "norm": 2,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.10732,
+      "longitude": 39.54230
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MERKEZ",
+    "okul_adi": "Munzur Ortaokulu",
+    "kurum_kodu": "723706",
+    "ogretmen_durumu": {
+      "norm": 34,
+      "kadrolu": 36,
+      "sozlesmeli": 0
+    },
+    "branslar": [
+      {
+        "brans": "Beden Eğitimi",
+        "norm": 3,
+        "kadrolu": 4,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Bilgisayar ve Öğretim Teknolojileri",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 2,
+        "kadrolu": 2,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Fen Bilimleri",
+        "norm": 5,
+        "kadrolu": 5,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Görsel Sanatlar",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Müzik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Rehberlik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sosyal Bilgiler",
+        "norm": 3,
+        "kadrolu": 3,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Teknoloji ve Tasarım",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Türkçe",
+        "norm": 5,
+        "kadrolu": 5,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Özel Eğitim",
+        "norm": 2,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İlköğretim Matematik",
+        "norm": 5,
+        "kadrolu": 5,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 4,
+        "kadrolu": 6,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.07361,
+      "longitude": 39.53168
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MERKEZ",
+    "okul_adi": "Sarı Saltuk İlkokulu",
+    "kurum_kodu": "723169",
+    "ogretmen_durumu": {
+      "norm": 12,
+      "kadrolu": 15,
+      "sozlesmeli": 0
+    },
+    "branslar": [
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Rehberlik",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sınıf Öğretmenliği",
+        "norm": 9,
+        "kadrolu": 12,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Özel Eğitim",
+        "norm": 2,
+        "kadrolu": 2,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.11020,
+      "longitude": 39.54743
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MERKEZ",
+    "okul_adi": "Tunceli Anadolu Lisesi",
+    "kurum_kodu": "215738",
+    "ogretmen_durumu": {
+      "norm": 25,
+      "kadrolu": 23,
+      "sozlesmeli": 2
+    },
+    "branslar": [
+      {
+        "brans": "Almanca",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Beden Eğitimi",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Biyoloji",
+        "norm": 2,
+        "kadrolu": 2,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Coğrafya",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Felsefe",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Fizik",
+        "norm": 2,
+        "kadrolu": 2,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Kimya / Kimya Teknolojisi",
+        "norm": 2,
+        "kadrolu": 1,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Matematik",
+        "norm": 4,
+        "kadrolu": 4,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Müzik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Rehberlik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sanat Tarihi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sağlık Bilgisi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Tarih",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Türk Dili ve Edebiyatı",
+        "norm": 4,
+        "kadrolu": 4,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 3,
+        "kadrolu": 3,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.06947,
+      "longitude": 39.53346
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MERKEZ",
+    "okul_adi": "Tunceli Elti Hatun Anaokulu",
+    "kurum_kodu": "973209",
+    "ogretmen_durumu": {
+      "norm": 9,
+      "kadrolu": 9,
+      "sozlesmeli": 0
+    },
+    "branslar": [
+      {
+        "brans": "Okul Öncesi",
+        "norm": 8,
+        "kadrolu": 8,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Rehberlik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.06977,
+      "longitude": 39.53301
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MERKEZ",
+    "okul_adi": "Tunceli Güzel Sanatlar Lisesi",
+    "kurum_kodu": "767394",
+    "ogretmen_durumu": {
+      "norm": 22,
+      "kadrolu": 20,
+      "sozlesmeli": 0
+    },
+    "branslar": [
+      {
+        "brans": "Beden Eğitimi",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Biyoloji",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Coğrafya",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Felsefe",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Fizik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Görsel Sanatlar",
+        "norm": 3,
+        "kadrolu": 3,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Kimya / Kimya Teknolojisi",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Matematik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Müzik / Bağlama",
+        "norm": 2,
+        "kadrolu": 2,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Müzik / Bireysel Ses Eğitimi",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Müzik / Gitar",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Müzik / Keman",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Müzik / Piyano",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Müzik / Çello",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sağlık Bilgisi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Tarih",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Türk Dili ve Edebiyatı",
+        "norm": 2,
+        "kadrolu": 2,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.11036,
+      "longitude": 39.53445
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MERKEZ",
+    "okul_adi": "Tunceli Halk Eğitimi Merkezi",
+    "kurum_kodu": "205042",
+    "ogretmen_durumu": {
+      "norm": 5,
+      "kadrolu": 4,
+      "sozlesmeli": 1
+    },
+    "branslar": [
+      {
+        "brans": "Bilgisayar ve Öğretim Teknolojileri",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Giyim Üretim Teknolojisi / Moda Tasarım Teknolojileri",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sınıf Öğretmenliği",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Tarih",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Yaşayan Diller ve Lehçeler (Kürtçe / Zazaki)",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.10690,
+      "longitude": 39.54819
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MERKEZ",
+    "okul_adi": "Tunceli Mesleki Eğitim Merkezi",
+    "kurum_kodu": "319152",
+    "ogretmen_durumu": {
+      "norm": 6,
+      "kadrolu": 5,
+      "sozlesmeli": 0
+    },
+    "branslar": [
+      {
+        "brans": "Beden Eğitimi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Elektrik-Elektronik Teknolojisi / Elektrik",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Giyim Üretim Teknolojisi / Moda Tasarım Teknolojileri",
+        "norm": 0,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Güzellik ve Saç Bakım Hizmetleri / Güzellik Hizmetleri",
+        "norm": 3,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Matematik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Motorlu Araçlar Teknolojisi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Rehberlik",
+        "norm": 0,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Tarih",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Türk Dili ve Edebiyatı",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Çocuk Gelişimi ve Eğitimi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İnşaat Teknolojisi / Yapı Tasarım",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.11099,
+      "longitude": 39.55104
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MERKEZ",
+    "okul_adi": "Tunceli Rehberlik ve Araştırma Merkezi",
+    "kurum_kodu": "290617",
+    "ogretmen_durumu": {
+      "norm": 11,
+      "kadrolu": 7,
+      "sozlesmeli": 2
+    },
+    "branslar": [
+      {
+        "brans": "Rehberlik",
+        "norm": 4,
+        "kadrolu": 4,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Özel Eğitim",
+        "norm": 7,
+        "kadrolu": 3,
+        "sozlesmeli": 2
+      }
+    ],
+    "konum": {
+      "latitude": 39.11115,
+      "longitude": 39.55038
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MERKEZ",
+    "okul_adi": "Tunceli Spor Lisesi",
+    "kurum_kodu": "751966",
+    "ogretmen_durumu": {
+      "norm": 8,
+      "kadrolu": 9,
+      "sozlesmeli": 1
+    },
+    "branslar": [
+      {
+        "brans": "Beden Eğitimi",
+        "norm": 3,
+        "kadrolu": 3,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Biyoloji",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Coğrafya",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Felsefe",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Fizik",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Kimya / Kimya Teknolojisi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Matematik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Müzik",
+        "norm": 0,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Rehberlik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sağlık Bilgisi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Tarih",
+        "norm": 0,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Türk Dili ve Edebiyatı",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.11033,
+      "longitude": 39.53512
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MERKEZ",
+    "okul_adi": "Tunceli Türk Telekom Fen Lisesi",
+    "kurum_kodu": "965193",
+    "ogretmen_durumu": {
+      "norm": 18,
+      "kadrolu": 17,
+      "sozlesmeli": 1
+    },
+    "branslar": [
+      {
+        "brans": "Almanca",
+        "norm": 0,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Beden Eğitimi",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Bilgisayar ve Öğretim Teknolojileri",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Biyoloji",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Coğrafya",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Felsefe",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Fizik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Kimya / Kimya Teknolojisi",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Matematik",
+        "norm": 3,
+        "kadrolu": 2,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Müzik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Rehberlik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sağlık Bilgisi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Tarih",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Türk Dili ve Edebiyatı",
+        "norm": 2,
+        "kadrolu": 2,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 2,
+        "kadrolu": 2,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.08896,
+      "longitude": 39.53538
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MERKEZ",
+    "okul_adi": "Tunceli Ölçme Değerlendirme Merkezi",
+    "kurum_kodu": "768609",
+    "ogretmen_durumu": {
+      "norm": 5,
+      "kadrolu": 2,
+      "sozlesmeli": 0
+    },
+    "branslar": [
+      {
+        "brans": "Fen Bilimleri",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sınıf Öğretmenliği",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Türk Dili ve Edebiyatı",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Türkçe",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İlköğretim Matematik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.07375,
+      "longitude": 39.53189
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MERKEZ",
+    "okul_adi": "Tunceli Özel Eğitim Meslek Okulu",
+    "kurum_kodu": "766980",
+    "ogretmen_durumu": {
+      "norm": 19,
+      "kadrolu": 17,
+      "sozlesmeli": 1
+    },
+    "branslar": [
+      {
+        "brans": "Beden Eğitimi",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "El Sanatları Teknolojisi / El Sanatları",
+        "norm": 1,
+        "kadrolu": 2,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Görsel Sanatlar",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Müzik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Tarım Teknolojileri / Tarım",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Yiyecek İçecek Hizmetleri",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Özel Eğitim",
+        "norm": 11,
+        "kadrolu": 9,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İnşaat Teknolojisi / Yapı Tasarım",
+        "norm": 1,
+        "kadrolu": 2,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.10929,
+      "longitude": 39.54853
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MERKEZ",
+    "okul_adi": "Tunceli Özel Eğitim Uygulama Okulu I. Kademe",
+    "kurum_kodu": "747220",
+    "ogretmen_durumu": {
+      "norm": 12,
+      "kadrolu": 3,
+      "sozlesmeli": 2
+    },
+    "branslar": [
+      {
+        "brans": "Okul Öncesi",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Özel Eğitim",
+        "norm": 11,
+        "kadrolu": 2,
+        "sozlesmeli": 2
+      }
+    ],
+    "konum": {
+      "latitude": 39.11082,
+      "longitude": 39.55074
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MERKEZ",
+    "okul_adi": "Tunceli Özel Eğitim Uygulama Okulu II. Kademe",
+    "kurum_kodu": "747316",
+    "ogretmen_durumu": {
+      "norm": 17,
+      "kadrolu": 7,
+      "sozlesmeli": 0
+    },
+    "branslar": [
+      {
+        "brans": "Beden Eğitimi",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Görsel Sanatlar",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Müzik",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Özel Eğitim",
+        "norm": 14,
+        "kadrolu": 5,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.11065,
+      "longitude": 39.55084
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MERKEZ",
+    "okul_adi": "Tunceli Özel Eğitim Uygulama Okulu III. Kademe",
+    "kurum_kodu": "747992",
+    "ogretmen_durumu": {
+      "norm": 18,
+      "kadrolu": 5,
+      "sozlesmeli": 3
+    },
+    "branslar": [
+      {
+        "brans": "Beden Eğitimi",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Görsel Sanatlar",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Müzik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Rehberlik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Özel Eğitim",
+        "norm": 14,
+        "kadrolu": 2,
+        "sozlesmeli": 3
+      }
+    ],
+    "konum": {
+      "latitude": 39.11064,
+      "longitude": 39.55080
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MERKEZ",
+    "okul_adi": "Tunceli İmam Hatip Ortaokulu",
+    "kurum_kodu": "762058",
+    "ogretmen_durumu": {
+      "norm": 6,
+      "kadrolu": 6,
+      "sozlesmeli": 1
+    },
+    "branslar": [
+      {
+        "brans": "Arapça",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Beden Eğitimi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Bilgisayar ve Öğretim Teknolojileri",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Fen Bilimleri",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Görsel Sanatlar",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Müzik",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sosyal Bilgiler",
+        "norm": 0,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Teknoloji ve Tasarım",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Türkçe",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İlköğretim Matematik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.07375,
+      "longitude": 39.53176
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MERKEZ",
+    "okul_adi": "Tunceli Şehit Öğretmen Necmettin YILMAZ Öğretmenevi ve Akşam Sanat Okulu",
+    "kurum_kodu": "971418",
+    "ogretmen_durumu": {
+      "norm": 0,
+      "kadrolu": 0,
+      "sozlesmeli": 0
+    },
+    "branslar": [
+      {
+        "brans": "Sosyal Bilgiler",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sınıf Öğretmenliği",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.06963,
+      "longitude": 39.53320
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MERKEZ",
+    "okul_adi": "Vali Mehmet Ali Türker İlkokulu",
+    "kurum_kodu": "723883",
+    "ogretmen_durumu": {
+      "norm": 21,
+      "kadrolu": 22,
+      "sozlesmeli": 1
+    },
+    "branslar": [
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Rehberlik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sınıf Öğretmenliği",
+        "norm": 17,
+        "kadrolu": 18,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Özel Eğitim",
+        "norm": 2,
+        "kadrolu": 2,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.08854,
+      "longitude": 39.53556
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MERKEZ",
+    "okul_adi": "Vilayetler Hizmet Birliği Anaokulu",
+    "kurum_kodu": "974343",
+    "ogretmen_durumu": {
+      "norm": 9,
+      "kadrolu": 9,
+      "sozlesmeli": 0
+    },
+    "branslar": [
+      {
+        "brans": "Okul Öncesi",
+        "norm": 8,
+        "kadrolu": 8,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Rehberlik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.10893,
+      "longitude": 39.53370
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MERKEZ",
+    "okul_adi": "Zübeyde Hanım Anaokulu",
+    "kurum_kodu": "818857",
+    "ogretmen_durumu": {
+      "norm": 7,
+      "kadrolu": 7,
+      "sozlesmeli": 0
+    },
+    "branslar": [
+      {
+        "brans": "Okul Öncesi",
+        "norm": 7,
+        "kadrolu": 7,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.08775,
+      "longitude": 39.53554
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MERKEZ",
+    "okul_adi": "İbni Sina Mesleki ve Teknik Anadolu Lisesi",
+    "kurum_kodu": "966625",
+    "ogretmen_durumu": {
+      "norm": 9,
+      "kadrolu": 7,
+      "sozlesmeli": 0
+    },
+    "branslar": [
+      {
+        "brans": "Beden Eğitimi",
+        "norm": 0,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Biyoloji",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Coğrafya",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Felsefe",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Fizik",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Kimya / Kimya Teknolojisi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Matematik",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Rehberlik",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sağlık / Sağlık Hizmetleri",
+        "norm": 5,
+        "kadrolu": 3,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sağlık Bilgisi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Tarih",
+        "norm": 0,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Türk Dili ve Edebiyatı",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.08833,
+      "longitude": 39.53558
+    }
+  },
+
+  {
+    "il": "TUNCELİ",
+    "ilce": "MERKEZ",
+    "okul_adi": "Şehit Burak Tortumlu Anaokulu",
+    "kurum_kodu": "774001",
+    "ogretmen_durumu": {
+      "norm": 5,
+      "kadrolu": 2,
+      "sozlesmeli": 1
+    },
+    "branslar": [
+      {
+        "brans": "Okul Öncesi",
+        "norm": 5,
+        "kadrolu": 2,
+        "sozlesmeli": 1
+      }
+    ],
+    "konum": {
+      "latitude": 39.04604,
+      "longitude": 39.51038
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MERKEZ",
+    "okul_adi": "Şehit Nedip Cengiz Eker Ortaokulu",
+    "kurum_kodu": "761922",
+    "ogretmen_durumu": {
+      "norm": 28,
+      "kadrolu": 27,
+      "sozlesmeli": 1
+    },
+    "branslar": [
+      {
+        "brans": "Beden Eğitimi",
+        "norm": 2,
+        "kadrolu": 2,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Bilgisayar ve Öğretim Teknolojileri",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 2,
+        "kadrolu": 1,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Fen Bilimleri",
+        "norm": 3,
+        "kadrolu": 3,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Görsel Sanatlar",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Müzik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Rehberlik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sosyal Bilgiler",
+        "norm": 3,
+        "kadrolu": 3,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Teknoloji ve Tasarım",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Türkçe",
+        "norm": 4,
+        "kadrolu": 4,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Özel Eğitim",
+        "norm": 2,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İlköğretim Matematik",
+        "norm": 4,
+        "kadrolu": 4,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 3,
+        "kadrolu": 5,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.08756,
+      "longitude": 39.53524
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "MERKEZ",
+    "okul_adi": "Şehit Nurgül-Bayram Aladağ İlkokulu",
+    "kurum_kodu": "738006",
+    "ogretmen_durumu": {
+      "norm": 5,
+      "kadrolu": 5,
+      "sozlesmeli": 0
+    },
+    "branslar": [
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Okul Öncesi",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sınıf Öğretmenliği",
+        "norm": 4,
+        "kadrolu": 4,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.10442,
+      "longitude": 39.55327
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "NAZIMİYE",
+    "okul_adi": "Kurtuluş İlkokulu",
+    "kurum_kodu": "724465",
+    "ogretmen_durumu": {
+      "norm": 4,
+      "kadrolu": 4,
+      "sozlesmeli": 1
+    },
+    "branslar": [
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sınıf Öğretmenliği",
+        "norm": 4,
+        "kadrolu": 4,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Özel Eğitim",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.17877,
+      "longitude": 39.82893
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "NAZIMİYE",
+    "okul_adi": "Nazımiye Anaokulu",
+    "kurum_kodu": "892706",
+    "ogretmen_durumu": {
+      "norm": 5,
+      "kadrolu": 2,
+      "sozlesmeli": 1
+    },
+    "branslar": [
+      {
+        "brans": "Okul Öncesi",
+        "norm": 4,
+        "kadrolu": 2,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Özel Eğitim",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.18330,
+      "longitude": 39.83166
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "NAZIMİYE",
+    "okul_adi": "Nazımiye Halk Eğitimi Merkezi",
+    "kurum_kodu": "205304",
+    "ogretmen_durumu": {
+      "norm": 2,
+      "kadrolu": 2,
+      "sozlesmeli": 0
+    },
+    "branslar": [
+      {
+        "brans": "Bilgisayar ve Öğretim Teknolojileri",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sınıf Öğretmenliği",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İlköğretim Matematik",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.18125,
+      "longitude": 39.82852
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "NAZIMİYE",
+    "okul_adi": "Nazımiye Ortaokulu",
+    "kurum_kodu": "724750",
+    "ogretmen_durumu": {
+      "norm": 13,
+      "kadrolu": 3,
+      "sozlesmeli": 4
+    },
+    "branslar": [
+      {
+        "brans": "Beden Eğitimi",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Bilgisayar ve Öğretim Teknolojileri",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Fen Bilimleri",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Görsel Sanatlar",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Müzik",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Rehberlik",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sosyal Bilgiler",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Teknoloji ve Tasarım",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Türkçe",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Özel Eğitim",
+        "norm": 4,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İlköğretim Matematik",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.17947,
+      "longitude": 39.82455
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "NAZIMİYE",
+    "okul_adi": "Şehit Mehmet Anadolu Lisesi",
+    "kurum_kodu": "762854",
+    "ogretmen_durumu": {
+      "norm": 8,
+      "kadrolu": 5,
+      "sozlesmeli": 3
+    },
+    "branslar": [
+      {
+        "brans": "Almanca",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Beden Eğitimi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Biyoloji",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Coğrafya",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Felsefe",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Fizik",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Görsel Sanatlar",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Kimya / Kimya Teknolojisi",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Matematik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sağlık Bilgisi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Tarih",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Türk Dili ve Edebiyatı",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.17900,
+      "longitude": 39.83921
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "OVACIK",
+    "okul_adi": "Mareşal Fevzi Çakmak Anadolu Lisesi",
+    "kurum_kodu": "775946",
+    "ogretmen_durumu": {
+      "norm": 12,
+      "kadrolu": 4,
+      "sozlesmeli": 5
+    },
+    "branslar": [
+      {
+        "brans": "Almanca",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Beden Eğitimi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Biyoloji",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Coğrafya",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Felsefe",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Fizik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Kimya / Kimya Teknolojisi",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Matematik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Müzik",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sağlık Bilgisi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Tarih",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Türk Dili ve Edebiyatı",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.35712,
+      "longitude": 39.21659
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "OVACIK",
+    "okul_adi": "Ovacık Anaokulu",
+    "kurum_kodu": "892731",
+    "ogretmen_durumu": {
+      "norm": 5,
+      "kadrolu": 4,
+      "sozlesmeli": 0
+    },
+    "branslar": [
+      {
+        "brans": "Okul Öncesi",
+        "norm": 5,
+        "kadrolu": 4,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.35702,
+      "longitude": 39.21662
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "OVACIK",
+    "okul_adi": "Tunceli Ovacık Halk Eğitimi Merkezi",
+    "kurum_kodu": "205365",
+    "ogretmen_durumu": {
+      "norm": 3,
+      "kadrolu": 2,
+      "sozlesmeli": 1
+    },
+    "branslar": [
+      {
+        "brans": "Bilgisayar ve Öğretim Teknolojileri",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "El Sanatları Teknolojisi / El Sanatları",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sınıf Öğretmenliği",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Yaşayan Diller ve Lehçeler (Kürtçe / Zazaki)",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      }
+    ],
+    "konum": {
+      "latitude": 39.35717,
+      "longitude": 39.21244
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "OVACIK",
+    "okul_adi": "Yeşilyazı Hoca Ahmet Yesevi Yatılı Bölge Ortaokulu",
+    "kurum_kodu": "747964",
+    "ogretmen_durumu": {
+      "norm": 9,
+      "kadrolu": 3,
+      "sozlesmeli": 3
+    },
+    "branslar": [
+      {
+        "brans": "Beden Eğitimi",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Bilgisayar ve Öğretim Teknolojileri",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Fen Bilimleri",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Görsel Sanatlar",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Müzik",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Okul Öncesi",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Rehberlik",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Sosyal Bilgiler",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Teknoloji ve Tasarım",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Türkçe",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İlköğretim Matematik",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.33287,
+      "longitude": 39.08582
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "OVACIK",
+    "okul_adi": "Yeşilyazı İlkokulu",
+    "kurum_kodu": "757423",
+    "ogretmen_durumu": {
+      "norm": 4,
+      "kadrolu": 2,
+      "sozlesmeli": 0
+    },
+    "branslar": [
+      {
+        "brans": "Sınıf Öğretmenliği",
+        "norm": 2,
+        "kadrolu": 2,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Özel Eğitim",
+        "norm": 2,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.33490,
+      "longitude": 39.08683
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "OVACIK",
+    "okul_adi": "İlçe Milli Eğitim Müdürlüğü",
+    "kurum_kodu": "205377",
+    "ogretmen_durumu": {
+      "norm": 0,
+      "kadrolu": 2,
+      "sozlesmeli": 0
+    },
+    "branslar": [
+      {
+        "brans": "Fen Bilimleri",
+        "norm": 0,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Rehberlik",
+        "norm": 0,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.35836,
+      "longitude": 39.21596
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "OVACIK",
+    "okul_adi": "Şehit Cumhuriyet Savcısı Murat Uzun Ortaokulu",
+    "kurum_kodu": "724790",
+    "ogretmen_durumu": {
+      "norm": 8,
+      "kadrolu": 7,
+      "sozlesmeli": 1
+    },
+    "branslar": [
+      {
+        "brans": "Beden Eğitimi",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Bilgisayar ve Öğretim Teknolojileri",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Fen Bilimleri",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Görsel Sanatlar",
+        "norm": 0,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Müzik",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sosyal Bilgiler",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Teknoloji ve Tasarım",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Türkçe",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İlköğretim Matematik",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.35791,
+      "longitude": 39.21652
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "OVACIK",
+    "okul_adi": "Şehit Hakim Onur Alan İlkokulu",
+    "kurum_kodu": "724784",
+    "ogretmen_durumu": {
+      "norm": 8,
+      "kadrolu": 8,
+      "sozlesmeli": 0
+    },
+    "branslar": [
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sınıf Öğretmenliği",
+        "norm": 6,
+        "kadrolu": 8,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Özel Eğitim",
+        "norm": 2,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.35657,
+      "longitude": 39.24318
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "PERTEK",
+    "okul_adi": "Atatürk İlkokulu",
+    "kurum_kodu": "723982",
+    "ogretmen_durumu": {
+      "norm": 15,
+      "kadrolu": 12,
+      "sozlesmeli": 0
+    },
+    "branslar": [
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sınıf Öğretmenliği",
+        "norm": 10,
+        "kadrolu": 10,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Özel Eğitim",
+        "norm": 4,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 38.86737,
+      "longitude": 39.32665
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "PERTEK",
+    "okul_adi": "Ayazpınar İlkokulu",
+    "kurum_kodu": "749782",
+    "ogretmen_durumu": {
+      "norm": 2,
+      "kadrolu": 1,
+      "sozlesmeli": 0
+    },
+    "branslar": [
+      {
+        "brans": "Okul Öncesi",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sınıf Öğretmenliği",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 38.92678,
+      "longitude": 39.05790
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "PERTEK",
+    "okul_adi": "Cumhuriyet Ortaokulu",
+    "kurum_kodu": "738332",
+    "ogretmen_durumu": {
+      "norm": 25,
+      "kadrolu": 18,
+      "sozlesmeli": 1
+    },
+    "branslar": [
+      {
+        "brans": "Beden Eğitimi",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Bilgisayar ve Öğretim Teknolojileri",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Fen Bilimleri",
+        "norm": 3,
+        "kadrolu": 3,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Görsel Sanatlar",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Müzik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Rehberlik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sosyal Bilgiler",
+        "norm": 2,
+        "kadrolu": 2,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Teknoloji ve Tasarım",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Türkçe",
+        "norm": 4,
+        "kadrolu": 3,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Özel Eğitim",
+        "norm": 4,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İlköğretim Matematik",
+        "norm": 3,
+        "kadrolu": 3,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 2,
+        "kadrolu": 2,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 38.87045,
+      "longitude": 39.32213
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "PERTEK",
+    "okul_adi": "Gülüzar Genç Anaokulu",
+    "kurum_kodu": "890528",
+    "ogretmen_durumu": {
+      "norm": 8,
+      "kadrolu": 4,
+      "sozlesmeli": 1
+    },
+    "branslar": [
+      {
+        "brans": "Okul Öncesi",
+        "norm": 7,
+        "kadrolu": 4,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Özel Eğitim",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 38.86996,
+      "longitude": 39.32120
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "PERTEK",
+    "okul_adi": "Konaklar İlkokulu",
+    "kurum_kodu": "724052",
+    "ogretmen_durumu": {
+      "norm": 1,
+      "kadrolu": 1,
+      "sozlesmeli": 0
+    },
+    "branslar": [
+      {
+        "brans": "Sınıf Öğretmenliği",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 38.91707,
+      "longitude": 39.02202
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "PERTEK",
+    "okul_adi": "Mustafa Kemal Çok Programlı Anadolu Lisesi",
+    "kurum_kodu": "869723",
+    "ogretmen_durumu": {
+      "norm": 30,
+      "kadrolu": 18,
+      "sozlesmeli": 4
+    },
+    "branslar": [
+      {
+        "brans": "Almanca",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Beden Eğitimi",
+        "norm": 1,
+        "kadrolu": 2,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Biyoloji",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Coğrafya",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 2,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Felsefe",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Fizik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Hasta ve Yaşlı Hizmetleri",
+        "norm": 3,
+        "kadrolu": 0,
+        "sozlesmeli": 2
+      },
+      {
+        "brans": "Kimya / Kimya Teknolojisi",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Matematik",
+        "norm": 3,
+        "kadrolu": 3,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Müzik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Rehberlik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sağlık Bilgisi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Tarih",
+        "norm": 2,
+        "kadrolu": 2,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Türk Dili ve Edebiyatı",
+        "norm": 3,
+        "kadrolu": 3,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Özel Eğitim",
+        "norm": 6,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 2,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 38.87269,
+      "longitude": 39.32533
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "PERTEK",
+    "okul_adi": "Pertek Anadolu İmam Hatip Lisesi",
+    "kurum_kodu": "752261",
+    "ogretmen_durumu": {
+      "norm": 17,
+      "kadrolu": 8,
+      "sozlesmeli": 9
+    },
+    "branslar": [
+      {
+        "brans": "Arapça",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Beden Eğitimi",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Biyoloji",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Coğrafya",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Felsefe",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Fen Bilimleri",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Fizik",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Görsel Sanatlar",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Kimya / Kimya Teknolojisi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Matematik",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Müzik",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Rehberlik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sağlık Bilgisi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sosyal Bilgiler",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Tarih",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Teknoloji ve Tasarım",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Türk Dili ve Edebiyatı",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Türkçe",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "İlköğretim Matematik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İmam-Hatip Lisesi Meslek Dersleri",
+        "norm": 2,
+        "kadrolu": 0,
+        "sozlesmeli": 2
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 38.87111,
+      "longitude": 39.32371
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "PERTEK",
+    "okul_adi": "Pertek Halk Eğitimi Merkezi",
+    "kurum_kodu": "205461",
+    "ogretmen_durumu": {
+      "norm": 4,
+      "kadrolu": 4,
+      "sozlesmeli": 0
+    },
+    "branslar": [
+      {
+        "brans": "Beden Eğitimi",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Bilgisayar ve Öğretim Teknolojileri",
+        "norm": 0,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Bilişim Teknolojileri",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "El Sanatları Teknolojisi / El Sanatları",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Fen Bilimleri",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İlköğretim Matematik",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 38.86784,
+      "longitude": 39.32456
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "PERTEK",
+    "okul_adi": "Pertek Öğretmenevi ve Akşam Sanat Okulu",
+    "kurum_kodu": "749922",
+    "ogretmen_durumu": {
+      "norm": 0,
+      "kadrolu": 0,
+      "sozlesmeli": 0
+    },
+    "branslar": [
+      {
+        "brans": "Fizik",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sınıf Öğretmenliği",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 38.86707,
+      "longitude": 39.32527
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "PERTEK",
+    "okul_adi": "Pınarlar Gazi Osman Paşa İlkokulu",
+    "kurum_kodu": "724109",
+    "ogretmen_durumu": {
+      "norm": 3,
+      "kadrolu": 2,
+      "sozlesmeli": 0
+    },
+    "branslar": [
+      {
+        "brans": "Okul Öncesi",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sınıf Öğretmenliği",
+        "norm": 2,
+        "kadrolu": 2,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 38.88059,
+      "longitude": 39.48532
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "PERTEK",
+    "okul_adi": "Pınarlar Ortaokulu",
+    "kurum_kodu": "724207",
+    "ogretmen_durumu": {
+      "norm": 7,
+      "kadrolu": 7,
+      "sozlesmeli": 0
+    },
+    "branslar": [
+      {
+        "brans": "Beden Eğitimi",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Bilgisayar ve Öğretim Teknolojileri",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Fen Bilimleri",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Görsel Sanatlar",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Müzik",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Okul Öncesi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sosyal Bilgiler",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Teknoloji ve Tasarım",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Türkçe",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İlköğretim Matematik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 38.87656,
+      "longitude": 39.47681
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "PERTEK",
+    "okul_adi": "İlçe Milli Eğitim Müdürlüğü",
+    "kurum_kodu": "205473",
+    "ogretmen_durumu": {
+      "norm": 0,
+      "kadrolu": 7,
+      "sozlesmeli": 0
+    },
+    "branslar": [
+      {
+        "brans": "Biyoloji",
+        "norm": 0,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Fizik",
+        "norm": 0,
+        "kadrolu": 2,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Matematik",
+        "norm": 0,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sınıf Öğretmenliği",
+        "norm": 0,
+        "kadrolu": 2,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Türk Dili ve Edebiyatı",
+        "norm": 0,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 38.85738,
+      "longitude": 39.36806
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "PERTEK",
+    "okul_adi": "Şehit Astsubay Gürsel Can İlkokulu",
+    "kurum_kodu": "723943",
+    "ogretmen_durumu": {
+      "norm": 11,
+      "kadrolu": 8,
+      "sozlesmeli": 1
+    },
+    "branslar": [
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Okul Öncesi",
+        "norm": 2,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Sınıf Öğretmenliği",
+        "norm": 8,
+        "kadrolu": 8,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 38.86668,
+      "longitude": 39.32619
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "PÜLÜMÜR",
+    "okul_adi": "Dede Korkut İlkokulu",
+    "kurum_kodu": "724287",
+    "ogretmen_durumu": {
+      "norm": 5,
+      "kadrolu": 4,
+      "sozlesmeli": 1
+    },
+    "branslar": [
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Rehberlik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sınıf Öğretmenliği",
+        "norm": 4,
+        "kadrolu": 3,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.48870,
+      "longitude": 39.89421
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "PÜLÜMÜR",
+    "okul_adi": "Gazi Anadolu Lisesi",
+    "kurum_kodu": "762851",
+    "ogretmen_durumu": {
+      "norm": 9,
+      "kadrolu": 5,
+      "sozlesmeli": 5
+    },
+    "branslar": [
+      {
+        "brans": "Almanca",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Beden Eğitimi",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Bilgisayar ve Öğretim Teknolojileri",
+        "norm": 0,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Biyoloji",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Coğrafya",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Felsefe",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Fizik",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Görsel Sanatlar",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Kimya / Kimya Teknolojisi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Matematik",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Müzik",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sağlık Bilgisi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Tarih",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Türk Dili ve Edebiyatı",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.48609,
+      "longitude": 39.89911
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "PÜLÜMÜR",
+    "okul_adi": "Pülümür Anaokulu",
+    "kurum_kodu": "965432",
+    "ogretmen_durumu": {
+      "norm": 4,
+      "kadrolu": 0,
+      "sozlesmeli": 2
+    },
+    "branslar": [
+      {
+        "brans": "Okul Öncesi",
+        "norm": 4,
+        "kadrolu": 0,
+        "sozlesmeli": 2
+      }
+    ],
+    "konum": {
+      "latitude": 39.48758,
+      "longitude": 39.89462
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "PÜLÜMÜR",
+    "okul_adi": "Pülümür Halk Eğitimi Merkezi",
+    "kurum_kodu": "205520",
+    "ogretmen_durumu": {
+      "norm": 2,
+      "kadrolu": 1,
+      "sozlesmeli": 0
+    },
+    "branslar": [
+      {
+        "brans": "Bilgisayar ve Öğretim Teknolojileri",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Giyim Üretim Teknolojisi / Moda Tasarım Teknolojileri",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.48745,
+      "longitude": 39.89483
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "PÜLÜMÜR",
+    "okul_adi": "Şehit Öğretmen Ayhan Kural Ortaokulu",
+    "kurum_kodu": "724317",
+    "ogretmen_durumu": {
+      "norm": 9,
+      "kadrolu": 5,
+      "sozlesmeli": 2
+    },
+    "branslar": [
+      {
+        "brans": "Beden Eğitimi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Bilgisayar ve Öğretim Teknolojileri",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Fen Bilimleri",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Görsel Sanatlar",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Müzik",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Sosyal Bilgiler",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Teknoloji ve Tasarım",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Türkçe",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İlköğretim Matematik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.48607,
+      "longitude": 39.89858
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "ÇEMİŞGEZEK",
+    "okul_adi": "Payamdüzü Ortaokulu",
+    "kurum_kodu": "724710",
+    "ogretmen_durumu": {
+      "norm": 7,
+      "kadrolu": 4,
+      "sozlesmeli": 2
+    },
+    "branslar": [
+      {
+        "brans": "Beden Eğitimi",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Bilgisayar ve Öğretim Teknolojileri",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Fen Bilimleri",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Görsel Sanatlar",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Müzik",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sosyal Bilgiler",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Teknoloji ve Tasarım",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Türkçe",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İlköğretim Matematik",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 38.97915,
+      "longitude": 38.99511
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "ÇEMİŞGEZEK",
+    "okul_adi": "Payamdüzü İlkokulu",
+    "kurum_kodu": "724704",
+    "ogretmen_durumu": {
+      "norm": 8,
+      "kadrolu": 3,
+      "sozlesmeli": 2
+    },
+    "branslar": [
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Okul Öncesi",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sınıf Öğretmenliği",
+        "norm": 4,
+        "kadrolu": 2,
+        "sozlesmeli": 2
+      },
+      {
+        "brans": "Özel Eğitim",
+        "norm": 2,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 38.97930,
+      "longitude": 38.99453
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "ÇEMİŞGEZEK",
+    "okul_adi": "Raşit Yüksel Anadolu İmam Hatip Lisesi",
+    "kurum_kodu": "748831",
+    "ogretmen_durumu": {
+      "norm": 19,
+      "kadrolu": 13,
+      "sozlesmeli": 3
+    },
+    "branslar": [
+      {
+        "brans": "Arapça",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Beden Eğitimi",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Bilgisayar ve Öğretim Teknolojileri",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Biyoloji",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Coğrafya",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Felsefe",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Fen Bilimleri",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Fizik",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Görsel Sanatlar",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Kimya / Kimya Teknolojisi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Matematik",
+        "norm": 2,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Müzik",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Rehberlik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sağlık Bilgisi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sosyal Bilgiler",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Tarih",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Teknoloji ve Tasarım",
+        "norm": 0,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Türk Dili ve Edebiyatı",
+        "norm": 1,
+        "kadrolu": 2,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Türkçe",
+        "norm": 1,
+        "kadrolu": 2,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Özel Eğitim",
+        "norm": 3,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İlköğretim Matematik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İmam-Hatip Lisesi Meslek Dersleri",
+        "norm": 3,
+        "kadrolu": 2,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.05816,
+      "longitude": 38.91363
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "ÇEMİŞGEZEK",
+    "okul_adi": "Sarıbalta Ortaokulu",
+    "kurum_kodu": "724732",
+    "ogretmen_durumu": {
+      "norm": 8,
+      "kadrolu": 3,
+      "sozlesmeli": 1
+    },
+    "branslar": [
+      {
+        "brans": "Beden Eğitimi",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Bilgisayar ve Öğretim Teknolojileri",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Fen Bilimleri",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Görsel Sanatlar",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Müzik",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sosyal Bilgiler",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Teknoloji ve Tasarım",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Türkçe",
+        "norm": 2,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "İlköğretim Matematik",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 38.99997,
+      "longitude": 38.94278
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "ÇEMİŞGEZEK",
+    "okul_adi": "Sarıbalta İlkokulu",
+    "kurum_kodu": "724712",
+    "ogretmen_durumu": {
+      "norm": 6,
+      "kadrolu": 3,
+      "sozlesmeli": 2
+    },
+    "branslar": [
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Okul Öncesi",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sınıf Öğretmenliği",
+        "norm": 4,
+        "kadrolu": 2,
+        "sozlesmeli": 2
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 38.99770,
+      "longitude": 38.94263
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "ÇEMİŞGEZEK",
+    "okul_adi": "Çemişgezek Anadolu Lisesi",
+    "kurum_kodu": "775938",
+    "ogretmen_durumu": {
+      "norm": 16,
+      "kadrolu": 7,
+      "sozlesmeli": 5
+    },
+    "branslar": [
+      {
+        "brans": "Almanca",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Beden Eğitimi",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Biyoloji",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Coğrafya",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Felsefe",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Fizik",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Görsel Sanatlar",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Kimya / Kimya Teknolojisi",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Matematik",
+        "norm": 2,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Rehberlik",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sağlık Bilgisi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Tarih",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Türk Dili ve Edebiyatı",
+        "norm": 2,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.05899,
+      "longitude": 38.91367
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "ÇEMİŞGEZEK",
+    "okul_adi": "Çemişgezek Anaokulu",
+    "kurum_kodu": "971904",
+    "ogretmen_durumu": {
+      "norm": 6,
+      "kadrolu": 5,
+      "sozlesmeli": 1
+    },
+    "branslar": [
+      {
+        "brans": "Okul Öncesi",
+        "norm": 6,
+        "kadrolu": 5,
+        "sozlesmeli": 1
+      }
+    ],
+    "konum": {
+      "latitude": 39.06398,
+      "longitude": 38.91405
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "ÇEMİŞGEZEK",
+    "okul_adi": "Çemişgezek Halk Eğitimi Merkezi",
+    "kurum_kodu": "205137",
+    "ogretmen_durumu": {
+      "norm": 3,
+      "kadrolu": 2,
+      "sozlesmeli": 0
+    },
+    "branslar": [
+      {
+        "brans": "Bilgisayar ve Öğretim Teknolojileri",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Müzik",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Teknoloji ve Tasarım",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Tekstil Teknolojisi / Trikotaj",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.06329,
+      "longitude": 38.91030
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "ÇEMİŞGEZEK",
+    "okul_adi": "İlçe Milli Eğitim Müdürlüğü",
+    "kurum_kodu": "205149",
+    "ogretmen_durumu": {
+      "norm": 0,
+      "kadrolu": 1,
+      "sozlesmeli": 0
+    },
+    "branslar": [
+      {
+        "brans": "Felsefe",
+        "norm": 0,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.06233,
+      "longitude": 38.91498
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "ÇEMİŞGEZEK",
+    "okul_adi": "İstiklal Ortaokulu",
+    "kurum_kodu": "724702",
+    "ogretmen_durumu": {
+      "norm": 12,
+      "kadrolu": 7,
+      "sozlesmeli": 3
+    },
+    "branslar": [
+      {
+        "brans": "Beden Eğitimi",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Bilgisayar ve Öğretim Teknolojileri",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Fen Bilimleri",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Görsel Sanatlar",
+        "norm": 0,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Müzik",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "Rehberlik",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sosyal Bilgiler",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Teknoloji ve Tasarım",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Türkçe",
+        "norm": 2,
+        "kadrolu": 1,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "İlköğretim Matematik",
+        "norm": 2,
+        "kadrolu": 1,
+        "sozlesmeli": 1
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 1,
+        "kadrolu": 1,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.06392,
+      "longitude": 38.91246
+    }
+  },
+  {
+    "il": "TUNCELİ",
+    "ilce": "ÇEMİŞGEZEK",
+    "okul_adi": "İstiklal İlkokulu",
+    "kurum_kodu": "724689",
+    "ogretmen_durumu": {
+      "norm": 16,
+      "kadrolu": 10,
+      "sozlesmeli": 2
+    },
+    "branslar": [
+      {
+        "brans": "Din Kültürü ve Ahlâk Bilgisi",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "Sınıf Öğretmenliği",
+        "norm": 12,
+        "kadrolu": 10,
+        "sozlesmeli": 2
+      },
+      {
+        "brans": "Özel Eğitim",
+        "norm": 2,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      },
+      {
+        "brans": "İngilizce",
+        "norm": 1,
+        "kadrolu": 0,
+        "sozlesmeli": 0
+      }
+    ],
+    "konum": {
+      "latitude": 39.06198,
+      "longitude": 38.91056
+    }
+  }
+]

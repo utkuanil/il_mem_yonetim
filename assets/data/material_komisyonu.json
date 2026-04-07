@@ -1,0 +1,123 @@
+{
+  "title": "Materyal Komisyonu",
+  "updatedAt": "2026-01-18",
+  "members": [
+    {
+      "no": 1,
+      "ilce": "Tunceli / Merkez",
+      "adSoyad": "Gizem YALMAN",
+      "kurum": "İl Milli Eğitim Müdürlüğü",
+      "unvan": "Öğretmen",
+      "brans": "Sınıf Öğretmeni",
+      "gorev": "Koordinatör"
+    },
+    {
+      "no": 2,
+      "ilce": "Tunceli / Merkez",
+      "adSoyad": "Sevcihan KARAKAŞ ANNAK",
+      "kurum": "Cumhuriyet Ortaokulu",
+      "unvan": "Öğretmen",
+      "brans": "Türkçe",
+      "gorev": "Üye"
+    },
+    {
+      "no": 3,
+      "ilce": "Tunceli / Merkez",
+      "adSoyad": "Sibel BOZKURT",
+      "kurum": "Munzur Ortaokulu",
+      "unvan": "Öğretmen",
+      "brans": "Fen Bilgisi",
+      "gorev": "Üye"
+    },
+    {
+      "no": 4,
+      "ilce": "Tunceli / Merkez",
+      "adSoyad": "Sibel TAŞKAN DURAN",
+      "kurum": "Atatürk Ortaokulu",
+      "unvan": "Öğretmen",
+      "brans": "Din Kültürü ve Ahlak Bilgisi",
+      "gorev": "Üye"
+    },
+    {
+      "no": 5,
+      "ilce": "Tunceli / Merkez",
+      "adSoyad": "Ferhat NAKİ",
+      "kurum": "Şehit Nedip Cengiz Eker Ortaokulu",
+      "unvan": "Öğretmen",
+      "brans": "Görsel Sanatlar",
+      "gorev": "Üye"
+    },
+    {
+      "no": 6,
+      "ilce": "Tunceli / Merkez",
+      "adSoyad": "Cansel Karaboğa GÜLATAR",
+      "kurum": "Rehberlik Araştırma Merkezi",
+      "unvan": "Öğretmen",
+      "brans": "Rehberlik",
+      "gorev": "Üye"
+    },
+    {
+      "no": 7,
+      "ilce": "Tunceli / Merkez",
+      "adSoyad": "Sevtap DEMİR",
+      "kurum": "BİLSEM",
+      "unvan": "Öğretmen",
+      "brans": "Sosyal Bilgiler",
+      "gorev": "Üye"
+    },
+    {
+      "no": 8,
+      "ilce": "Tunceli / Merkez",
+      "adSoyad": "Ayşe NAKİ",
+      "kurum": "Hürriyet Ortaokulu",
+      "unvan": "Öğretmen",
+      "brans": "Türkçe",
+      "gorev": "Üye"
+    },
+    {
+      "no": 9,
+      "ilce": "Tunceli / Merkez",
+      "adSoyad": "Mehmet Orkun TEKKILIÇ",
+      "kurum": "Şehit Nedip Cengiz Eker Ortaokulu",
+      "unvan": "Öğretmen",
+      "brans": "Türkçe",
+      "gorev": "Üye"
+    },
+    {
+      "no": 10,
+      "ilce": "Tunceli / Merkez",
+      "adSoyad": "Erhan ELMA",
+      "kurum": "Munzur Ortaokulu",
+      "unvan": "Öğretmen",
+      "brans": "Sosyal Bilgiler",
+      "gorev": "Üye"
+    },
+    {
+      "no": 11,
+      "ilce": "Tunceli / Merkez",
+      "adSoyad": "Kübra Nur ÇETİN",
+      "kurum": "Cumhuriyet Ortaokulu",
+      "unvan": "Öğretmen",
+      "brans": "Görsel Sanatlar",
+      "gorev": "Üye"
+    },
+    {
+      "no": 12,
+      "ilce": "Tunceli / Merkez",
+      "adSoyad": "Şeyma Nur ATALAY",
+      "kurum": "Vali Mehmet Ali Türker İlkokulu",
+      "unvan": "Öğretmen",
+      "brans": "Din Kültürü ve Ahlak Bilgisi",
+      "gorev": "Üye"
+    },
+    {
+      "no": 13,
+      "ilce": "Tunceli / Merkez",
+      "adSoyad": "Nihat GÜNGÖRMÜŞ",
+      "kurum": "Atatürk Ortaokulu",
+      "unvan": "Öğretmen",
+      "brans": "Bilişim Teknolojileri",
+      "gorev": "Üye"
+    }
+  ]
+}

@@ -1,0 +1,491 @@
+{
+  "title": "Destekleme ve Yetiştirme Kursları",
+  "records": [
+    {
+      "GENEL_MUDURLUK": "Ortaöğretim Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "Atatürk Anadolu Lisesi",
+      "DERS_ADI": "Biyoloji",
+      "KURS_SAYISI": 1,
+      "TOPLAM": 17
+    },
+    {
+      "GENEL_MUDURLUK": "Ortaöğretim Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "Atatürk Anadolu Lisesi",
+      "DERS_ADI": "Fizik",
+      "KURS_SAYISI": 1,
+      "TOPLAM": 17
+    },
+    {
+      "GENEL_MUDURLUK": "Ortaöğretim Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "Atatürk Anadolu Lisesi",
+      "DERS_ADI": "Matematik",
+      "KURS_SAYISI": 1,
+      "TOPLAM": 24
+    },
+    {
+      "GENEL_MUDURLUK": "Ortaöğretim Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "Atatürk Anadolu Lisesi",
+      "DERS_ADI": "Türk Dili Ve Edebiyatı",
+      "KURS_SAYISI": 2,
+      "TOPLAM": 42
+    },
+    {
+      "GENEL_MUDURLUK": "Temel Eğitim Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "Atatürk Ortaokulu",
+      "DERS_ADI": "Fen Bilimleri",
+      "KURS_SAYISI": 2,
+      "TOPLAM": 44
+    },
+    {
+      "GENEL_MUDURLUK": "Temel Eğitim Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "Atatürk Ortaokulu",
+      "DERS_ADI": "İngilizce",
+      "KURS_SAYISI": 2,
+      "TOPLAM": 37
+    },
+    {
+      "GENEL_MUDURLUK": "Temel Eğitim Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "Atatürk Ortaokulu",
+      "DERS_ADI": "Matematik",
+      "KURS_SAYISI": 2,
+      "TOPLAM": 42
+    },
+    {
+      "GENEL_MUDURLUK": "Temel Eğitim Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "Atatürk Ortaokulu",
+      "DERS_ADI": "T.C. İnkılâp Tarihi Ve Atatürkçülük",
+      "KURS_SAYISI": 2,
+      "TOPLAM": 44
+    },
+    {
+      "GENEL_MUDURLUK": "Temel Eğitim Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "Atatürk Ortaokulu",
+      "DERS_ADI": "Türkçe",
+      "KURS_SAYISI": 2,
+      "TOPLAM": 43
+    },
+    {
+      "GENEL_MUDURLUK": "Temel Eğitim Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "Cumhuriyet Ortaokulu",
+      "DERS_ADI": "Fen Bilimleri",
+      "KURS_SAYISI": 3,
+      "TOPLAM": 72
+    },
+    {
+      "GENEL_MUDURLUK": "Temel Eğitim Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "Cumhuriyet Ortaokulu",
+      "DERS_ADI": "Matematik",
+      "KURS_SAYISI": 4,
+      "TOPLAM": 76
+    },
+    {
+      "GENEL_MUDURLUK": "Temel Eğitim Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "Cumhuriyet Ortaokulu",
+      "DERS_ADI": "T.C. İnkılâp Tarihi Ve Atatürkçülük",
+      "KURS_SAYISI": 3,
+      "TOPLAM": 63
+    },
+    {
+      "GENEL_MUDURLUK": "Temel Eğitim Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "Cumhuriyet Ortaokulu",
+      "DERS_ADI": "Türkçe",
+      "KURS_SAYISI": 3,
+      "TOPLAM": 72
+    },
+    {
+      "GENEL_MUDURLUK": "Ortaöğretim Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "Dersim Anadolu Lisesi",
+      "DERS_ADI": "Biyoloji",
+      "KURS_SAYISI": 2,
+      "TOPLAM": 48
+    },
+    {
+      "GENEL_MUDURLUK": "Ortaöğretim Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "Dersim Anadolu Lisesi",
+      "DERS_ADI": "Coğrafya",
+      "KURS_SAYISI": 2,
+      "TOPLAM": 43
+    },
+    {
+      "GENEL_MUDURLUK": "Ortaöğretim Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "Dersim Anadolu Lisesi",
+      "DERS_ADI": "İngilizce",
+      "KURS_SAYISI": 1,
+      "TOPLAM": 21
+    },
+    {
+      "GENEL_MUDURLUK": "Ortaöğretim Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "Dersim Anadolu Lisesi",
+      "DERS_ADI": "Kimya",
+      "KURS_SAYISI": 2,
+      "TOPLAM": 29
+    },
+    {
+      "GENEL_MUDURLUK": "Ortaöğretim Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "Dersim Anadolu Lisesi",
+      "DERS_ADI": "Matematik",
+      "KURS_SAYISI": 2,
+      "TOPLAM": 46
+    },
+    {
+      "GENEL_MUDURLUK": "Ortaöğretim Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "Dersim Anadolu Lisesi",
+      "DERS_ADI": "Tarih",
+      "KURS_SAYISI": 1,
+      "TOPLAM": 19
+    },
+    {
+      "GENEL_MUDURLUK": "Ortaöğretim Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "Dersim Anadolu Lisesi",
+      "DERS_ADI": "T.C. İnkılâp Tarihi Ve Atatürkçülük",
+      "KURS_SAYISI": 1,
+      "TOPLAM": 13
+    },
+    {
+      "GENEL_MUDURLUK": "Ortaöğretim Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "Dersim Anadolu Lisesi",
+      "DERS_ADI": "Türk Dili Ve Edebiyatı",
+      "KURS_SAYISI": 2,
+      "TOPLAM": 29
+    },
+    {
+      "GENEL_MUDURLUK": "Temel Eğitim Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "Hürriyet Ortaokulu",
+      "DERS_ADI": "Din Kültürü Ve Ahlak Bilgisi",
+      "KURS_SAYISI": 1,
+      "TOPLAM": 24
+    },
+    {
+      "GENEL_MUDURLUK": "Temel Eğitim Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "Hürriyet Ortaokulu",
+      "DERS_ADI": "Fen Bilimleri",
+      "KURS_SAYISI": 2,
+      "TOPLAM": 35
+    },
+    {
+      "GENEL_MUDURLUK": "Temel Eğitim Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "Hürriyet Ortaokulu",
+      "DERS_ADI": "İngilizce",
+      "KURS_SAYISI": 2,
+      "TOPLAM": 33
+    },
+    {
+      "GENEL_MUDURLUK": "Temel Eğitim Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "Hürriyet Ortaokulu",
+      "DERS_ADI": "Matematik",
+      "KURS_SAYISI": 2,
+      "TOPLAM": 32
+    },
+    {
+      "GENEL_MUDURLUK": "Temel Eğitim Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "Hürriyet Ortaokulu",
+      "DERS_ADI": "T.C. İnkılâp Tarihi Ve Atatürkçülük",
+      "KURS_SAYISI": 2,
+      "TOPLAM": 33
+    },
+    {
+      "GENEL_MUDURLUK": "Temel Eğitim Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "Hürriyet Ortaokulu",
+      "DERS_ADI": "Türkçe",
+      "KURS_SAYISI": 2,
+      "TOPLAM": 36
+    },
+    {
+      "GENEL_MUDURLUK": "Mesleki ve Teknik Eğitim Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "İbni Sina Mesleki ve Teknik Anadolu Lisesi",
+      "DERS_ADI": "Fizik",
+      "KURS_SAYISI": 1,
+      "TOPLAM": 16
+    },
+    {
+      "GENEL_MUDURLUK": "Mesleki ve Teknik Eğitim Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "İbni Sina Mesleki ve Teknik Anadolu Lisesi",
+      "DERS_ADI": "Matematik",
+      "KURS_SAYISI": 1,
+      "TOPLAM": 16
+    },
+    {
+      "GENEL_MUDURLUK": "Mesleki ve Teknik Eğitim Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "İbni Sina Mesleki ve Teknik Anadolu Lisesi",
+      "DERS_ADI": "T.C. İnkılâp Tarihi Ve Atatürkçülük",
+      "KURS_SAYISI": 1,
+      "TOPLAM": 6
+    },
+    {
+      "GENEL_MUDURLUK": "Mesleki ve Teknik Eğitim Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "İbni Sina Mesleki ve Teknik Anadolu Lisesi",
+      "DERS_ADI": "Türk Dili Ve Edebiyatı",
+      "KURS_SAYISI": 1,
+      "TOPLAM": 16
+    },
+    {
+      "GENEL_MUDURLUK": "Temel Eğitim Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "Munzur Ortaokulu",
+      "DERS_ADI": "Fen Bilimleri",
+      "KURS_SAYISI": 1,
+      "TOPLAM": 24
+    },
+    {
+      "GENEL_MUDURLUK": "Temel Eğitim Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "Munzur Ortaokulu",
+      "DERS_ADI": "İngilizce",
+      "KURS_SAYISI": 2,
+      "TOPLAM": 42
+    },
+    {
+      "GENEL_MUDURLUK": "Temel Eğitim Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "Munzur Ortaokulu",
+      "DERS_ADI": "Matematik",
+      "KURS_SAYISI": 1,
+      "TOPLAM": 24
+    },
+    {
+      "GENEL_MUDURLUK": "Temel Eğitim Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "Munzur Ortaokulu",
+      "DERS_ADI": "T.C. İnkılâp Tarihi Ve Atatürkçülük",
+      "KURS_SAYISI": 1,
+      "TOPLAM": 23
+    },
+    {
+      "GENEL_MUDURLUK": "Temel Eğitim Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "Munzur Ortaokulu",
+      "DERS_ADI": "Türkçe",
+      "KURS_SAYISI": 2,
+      "TOPLAM": 44
+    },
+    {
+      "GENEL_MUDURLUK": "Temel Eğitim Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "Şehit Nedip Cengiz Eker Ortaokulu",
+      "DERS_ADI": "Din Kültürü Ve Ahlak Bilgisi",
+      "KURS_SAYISI": 1,
+      "TOPLAM": 24
+    },
+    {
+      "GENEL_MUDURLUK": "Temel Eğitim Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "Şehit Nedip Cengiz Eker Ortaokulu",
+      "DERS_ADI": "Fen Bilimleri",
+      "KURS_SAYISI": 3,
+      "TOPLAM": 60
+    },
+    {
+      "GENEL_MUDURLUK": "Temel Eğitim Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "Şehit Nedip Cengiz Eker Ortaokulu",
+      "DERS_ADI": "İngilizce",
+      "KURS_SAYISI": 2,
+      "TOPLAM": 46
+    },
+    {
+      "GENEL_MUDURLUK": "Temel Eğitim Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "Şehit Nedip Cengiz Eker Ortaokulu",
+      "DERS_ADI": "Matematik",
+      "KURS_SAYISI": 3,
+      "TOPLAM": 64
+    },
+    {
+      "GENEL_MUDURLUK": "Temel Eğitim Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "Şehit Nedip Cengiz Eker Ortaokulu",
+      "DERS_ADI": "T.C. İnkılâp Tarihi Ve Atatürkçülük",
+      "KURS_SAYISI": 2,
+      "TOPLAM": 48
+    },
+    {
+      "GENEL_MUDURLUK": "Temel Eğitim Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "Şehit Nedip Cengiz Eker Ortaokulu",
+      "DERS_ADI": "Türkçe",
+      "KURS_SAYISI": 3,
+      "TOPLAM": 61
+    },
+    {
+      "GENEL_MUDURLUK": "Ortaöğretim Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "Tunceli Anadolu Lisesi",
+      "DERS_ADI": "Biyoloji",
+      "KURS_SAYISI": 1,
+      "TOPLAM": 22
+    },
+    {
+      "GENEL_MUDURLUK": "Ortaöğretim Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "Tunceli Anadolu Lisesi",
+      "DERS_ADI": "Fizik",
+      "KURS_SAYISI": 2,
+      "TOPLAM": 36
+    },
+    {
+      "GENEL_MUDURLUK": "Ortaöğretim Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "Tunceli Anadolu Lisesi",
+      "DERS_ADI": "Kimya",
+      "KURS_SAYISI": 1,
+      "TOPLAM": 21
+    },
+    {
+      "GENEL_MUDURLUK": "Ortaöğretim Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "Tunceli Anadolu Lisesi",
+      "DERS_ADI": "Matematik",
+      "KURS_SAYISI": 2,
+      "TOPLAM": 48
+    },
+    {
+      "GENEL_MUDURLUK": "Özel Eğitim ve Rehberlik Hizmetleri Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "Tunceli Özel Eğitim Meslek Okulu",
+      "DERS_ADI": "Din Kültürü Ve Ahlak Bilgisi (Özel Eğitim Meslek Okulu)",
+      "KURS_SAYISI": 1,
+      "TOPLAM": 10
+    },
+    {
+      "GENEL_MUDURLUK": "Özel Eğitim ve Rehberlik Hizmetleri Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "Tunceli Özel Eğitim Meslek Okulu",
+      "DERS_ADI": "Matematik (Özel Eğitim Meslek Okulu)",
+      "KURS_SAYISI": 1,
+      "TOPLAM": 10
+    },
+    {
+      "GENEL_MUDURLUK": "Özel Eğitim ve Rehberlik Hizmetleri Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "Tunceli Özel Eğitim Meslek Okulu",
+      "DERS_ADI": "Sosyal Hayat (Özel Eğitim Meslek Okulu)",
+      "KURS_SAYISI": 1,
+      "TOPLAM": 10
+    },
+    {
+      "GENEL_MUDURLUK": "Özel Eğitim ve Rehberlik Hizmetleri Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "Tunceli Özel Eğitim Meslek Okulu",
+      "DERS_ADI": "Türkçe (Özel Eğitim Meslek Okulu)",
+      "KURS_SAYISI": 1,
+      "TOPLAM": 10
+    },
+    {
+      "GENEL_MUDURLUK": "Ortaöğretim Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "Tunceli Türk Telekom Fen Lisesi",
+      "DERS_ADI": "Biyoloji",
+      "KURS_SAYISI": 2,
+      "TOPLAM": 40
+    },
+    {
+      "GENEL_MUDURLUK": "Ortaöğretim Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "Tunceli Türk Telekom Fen Lisesi",
+      "DERS_ADI": "Fizik",
+      "KURS_SAYISI": 2,
+      "TOPLAM": 41
+    },
+    {
+      "GENEL_MUDURLUK": "Ortaöğretim Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "Tunceli Türk Telekom Fen Lisesi",
+      "DERS_ADI": "Kimya",
+      "KURS_SAYISI": 2,
+      "TOPLAM": 40
+    },
+    {
+      "GENEL_MUDURLUK": "Ortaöğretim Genel Müdürlüğü",
+      "IL_ADI": "Tunceli",
+      "ILCE_ADI": "Merkez",
+      "KURUM_ADI": "Tunceli Türk Telekom Fen Lisesi",
+      "DERS_ADI": "Matematik",
+      "KURS_SAYISI": 2,
+      "TOPLAM": 42
+    }
+  ]
+}
