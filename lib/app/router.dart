@@ -1,5 +1,3 @@
-import 'dart:typed_data';
-
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import 'package:provider/provider.dart';
@@ -8,7 +6,6 @@ import 'shell.dart';
 
 // core
 import '../core/auth/user_session.dart';
-import '../core/reports/pdf_preview_page.dart' as pdf_preview;
 
 // splash
 import '../features/splash/splash_page.dart';
@@ -32,7 +29,8 @@ import '../features/requests/requests_page.dart';
 
 // admin
 import '../features/admin/admin_page.dart';
-import '../features/admin/reports/reports_page.dart';
+import '../features/admin/reports/reports_page.dart'
+    show ReportsPage, PdfPreviewArgs, PdfPreviewPage;
 import '../features/admin/analytics/analytics_page.dart';
 import '../features/admin/users/admin_users_page.dart';
 import '../features/inspection/pages/planli_denetimler_page.dart';
@@ -106,13 +104,8 @@ class AppRouter {
         GoRoute(
           path: '/pdf-preview',
           builder: (context, state) {
-            final extra = state.extra as Map<String, dynamic>;
-
-            return pdf_preview.PdfPreviewPage(
-              bytes: extra['bytes'] as Uint8List,
-              fileName: extra['fileName'] as String,
-              title: extra['title'] as String,
-            );
+            final args = state.extra as PdfPreviewArgs;
+            return PdfPreviewPage(args: args);
           },
         ),
         ShellRoute(
