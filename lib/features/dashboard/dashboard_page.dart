@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 import '../../core/models/school.dart';
 import 'package:il_mem_yonetim/core/data/json_providers.dart';
@@ -58,11 +59,8 @@ class _DashboardPageState extends ConsumerState<DashboardPage> {
     plannedInspectionCountFuture = _loadPlannedInspectionCount();
     studentCountFuture = _loadStudentCount();
 
-    // ✅ İlk açılışta GitHub'dan kesin güncel çek
     _loadSchoolsFromGitHub(forceRefresh: true);
   }
-
-  // ---------- GitHub helpers ----------
 
   List<dynamic> _extractRecords(dynamic decoded) {
     if (decoded is Map<String, dynamic>) {
@@ -95,7 +93,6 @@ class _DashboardPageState extends ConsumerState<DashboardPage> {
           .map((e) => School.fromJson(Map<String, dynamic>.from(e)))
           .toList();
 
-      // ✅ DEDUPE (kurum_kodu bazlı)
       final unique = <String, School>{};
       for (final s in parsed) {
         final key =
@@ -121,8 +118,6 @@ class _DashboardPageState extends ConsumerState<DashboardPage> {
       );
     }
   }
-
-  // ---------- KPI loaders ----------
 
   Future<int> _loadEvizyonCount() async {
     final list = await evizyonService.fetchApplications();
@@ -211,8 +206,6 @@ class _DashboardPageState extends ConsumerState<DashboardPage> {
     return int.tryParse(toplam?.toString() ?? '') ?? 0;
   }
 
-  // ---------- UI helpers ----------
-
   String _formatInt(int n) {
     final s = n.toString();
     final buf = StringBuffer();
@@ -238,6 +231,16 @@ class _DashboardPageState extends ConsumerState<DashboardPage> {
     await _loadSchoolsFromGitHub(forceRefresh: true);
   }
 
+  Future<void> _openUrl(String url) async {
+    final uri = Uri.parse(url);
+    final ok = await launchUrl(uri, mode: LaunchMode.externalApplication);
+    if (!ok && mounted) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(content: Text('Bağlantı açılamadı')),
+      );
+    }
+  }
+
   @override
   Widget build(BuildContext context) {
     final isWide = MediaQuery.of(context).size.width >= 900;
@@ -245,7 +248,8 @@ class _DashboardPageState extends ConsumerState<DashboardPage> {
     final okulSayisi = schools.length;
     final ogretmenSayisi = schools.fold<int>(
       0,
-          (sum, s) => sum +
+          (sum, s) =>
+      sum +
           s.branslar.fold<int>(
             0,
                 (a, b) => a + (b.kadrolu ?? 0) + (b.sozlesmeli ?? 0),
@@ -260,7 +264,7 @@ class _DashboardPageState extends ConsumerState<DashboardPage> {
             children: [
               const Expanded(
                 child: Text(
-                  'Yönetici Paneli',
+                  'Ana Sayfa',
                   style: TextStyle(fontSize: 22, fontWeight: FontWeight.w600),
                 ),
               ),
@@ -347,38 +351,28 @@ class _DashboardPageState extends ConsumerState<DashboardPage> {
           ),
           const SizedBox(height: 16),
           const Text(
-            'Kritik Uyarılar',
-            style: TextStyle(fontSize: 16, fontWeight: FontWeight.w600),
-          ),
-          const SizedBox(height: 8),
-          const _AlertTile(
-            title: 'Son başvuru tarihi yaklaşan çağrı',
-            subtitle: 'STEM Projeleri Çağrısı • 3 gün kaldı',
-          ),
-          const _AlertTile(
-            title: 'Düzeltme bekleyen başvuru var',
-            subtitle: 'Pertek Anadolu Lisesi • Belgeler eksik',
-          ),
-          const _AlertTile(
-            title: 'Açık arıza bildirimi',
-            subtitle: 'Merkez İlkokulu • Isıtma sistemi',
-          ),
-          const SizedBox(height: 16),
-          const Text(
-            'Hızlı İşlemler',
+            'Sosyal Medya Hesapları',
             style: TextStyle(fontSize: 16, fontWeight: FontWeight.w600),
           ),
           const SizedBox(height: 8),
           Wrap(
             spacing: 10,
             runSpacing: 10,
-            children: const [
-              _QuickAction(label: 'Yeni Duyuru', icon: Icons.campaign),
-              _QuickAction(label: 'Proje Çağrısı Aç', icon: Icons.work_outline),
-              _QuickAction(label: 'Rapor Oluştur', icon: Icons.bar_chart),
-              _QuickAction(
-                label: 'Saha Ziyareti',
-                icon: Icons.location_on_outlined,
+            children: [
+              _SocialAction(
+                label: 'Instagram',
+                icon: Icons.camera_alt_outlined,
+                onTap: () => _openUrl('https://www.instagram.com/tunceliilmilliegitim'),
+              ),
+              _SocialAction(
+                label: 'X',
+                icon: Icons.alternate_email,
+                onTap: () => _openUrl('https://x.com/Tunceli_MEM'),
+              ),
+              _SocialAction(
+                label: 'YouTube',
+                icon: Icons.play_circle_outline,
+                onTap: () => _openUrl('https://www.youtube.com/TunceliMEM'),
               ),
             ],
           ),
@@ -486,34 +480,21 @@ class _FutureKpiCard extends StatelessWidget {
   }
 }
 
-class _AlertTile extends StatelessWidget {
-  final String title;
-  final String subtitle;
-
-  const _AlertTile({required this.title, required this.subtitle});
-
-  @override
-  Widget build(BuildContext context) {
-    return Card(
-      child: ListTile(
-        leading: const Icon(Icons.warning_amber_rounded),
-        title: Text(title),
-        subtitle: Text(subtitle),
-      ),
-    );
-  }
-}
-
-class _QuickAction extends StatelessWidget {
+class _SocialAction extends StatelessWidget {
   final String label;
   final IconData icon;
+  final VoidCallback onTap;
 
-  const _QuickAction({required this.label, required this.icon});
+  const _SocialAction({
+    required this.label,
+    required this.icon,
+    required this.onTap,
+  });
 
   @override
   Widget build(BuildContext context) {
     return FilledButton.tonalIcon(
-      onPressed: () {},
+      onPressed: onTap,
       icon: Icon(icon),
       label: Text(label),
     );
