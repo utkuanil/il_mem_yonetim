@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:url_launcher/url_launcher.dart';
-
+import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import '../../core/models/school.dart';
 import 'package:il_mem_yonetim/core/data/json_providers.dart';
 
@@ -361,17 +361,17 @@ class _DashboardPageState extends ConsumerState<DashboardPage> {
             children: [
               _SocialAction(
                 label: 'Instagram',
-                icon: Icons.camera_alt_outlined,
+                icon: FontAwesomeIcons.instagram,
                 onTap: () => _openUrl('https://www.instagram.com/tunceliilmilliegitim'),
               ),
               _SocialAction(
                 label: 'X',
-                icon: Icons.alternate_email,
+                icon: FontAwesomeIcons.xTwitter,
                 onTap: () => _openUrl('https://x.com/Tunceli_MEM'),
               ),
               _SocialAction(
                 label: 'YouTube',
-                icon: Icons.play_circle_outline,
+                icon: FontAwesomeIcons.youtube,
                 onTap: () => _openUrl('https://www.youtube.com/TunceliMEM'),
               ),
             ],
