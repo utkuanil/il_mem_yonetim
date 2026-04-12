@@ -2,7 +2,7 @@ name: il_mem_yonetim
 description: "İl Milli Eğitim Müdürlüğü Mobil ve Web Yönetim Uygulaması"
 publish_to: 'none'
 
-version: 1.0.0+3
+version: 1.0.0+4
 
 environment:
   sdk: ^3.9.2
